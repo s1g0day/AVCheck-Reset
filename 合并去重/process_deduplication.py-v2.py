@@ -8,8 +8,8 @@
     1. 读取杀软进程列表文件(avlist.txt)
     2. 对数据进行去重和排序处理
     3. 生成两个结果文件：
-       - avlist_unique_sorted.txt: 完全去重并按进程名排序
-       - avlist_quchong.txt: 按进程名去重(考虑优先级)并排序
+       - sorted.txt: 完全去重并按进程名排序
+       - quchong.txt: 按进程名去重(考虑优先级)并排序
 
 输入文件格式：
     "进程名":"描述"
@@ -83,7 +83,7 @@ def process_file(input_file: str = "avlist.txt") -> None:
      # 生成输出文件名（包含时间戳和输入文件名）
     input_name = get_file_name_without_ext(input_file)
     sorted_output = os.path.join('output', f"{timestamp}_{input_name}_sorted.txt")
-    final_output = os.path.join('output', f"{timestamp}_{input_name}_unique.txt")
+    final_output = os.path.join('output', f"{timestamp}_{input_name}_quchong.txt")
     
     logging.info(f"开始处理文件: {input_file}")
     
@@ -142,24 +142,51 @@ def process_by_priority(groups: Dict[str, List[str]], priority_keywords: List[st
                 descriptions = []
                 for line in clean_lines:
                     # 提取描述部分（第二个引号内的内容）
-                    desc = line.split(':')[1].strip().strip('"')
-                    if desc:  # 确保描述不为空
-                        descriptions.append(f'"{desc}"')  # 给每个描述加上引号
+                    parts = line.split(':', 1)
+                    if len(parts) == 2:
+                        desc = parts[1].strip().strip('"')
+                        if desc:  # 确保描述不为空
+                            # 去除描述中可能存在的多余逗号
+                            desc = desc.replace('",', '').replace(',"', '')
+                            descriptions.append(f'"{desc}"')  # 给每个描述加上引号
                 
                 # 构建新格式的行："进程名":["描述1","描述2",...]
-                process = clean_lines[0].split(':')[0]  # 获取进程名部分
-                descriptions_str = ",".join(descriptions).rstrip(",")
-                result[process_name] = f'{process}:[{descriptions_str}]\n'
-                # logging.info(f"进程 {process_name} 合并了 {len(descriptions)} 个描述")
+                process = clean_lines[0].split(':', 1)[0].strip()
+                # 使用join直接连接，避免多余逗号
+                result[process_name] = f'{process}:[{",".join(descriptions)}]\n'
             elif len(clean_lines) == 1:
-                result[process_name] = clean_lines[0]
-                # logging.info(f"进程 {process_name} 使用优先级过滤后的唯一描述")
+                # 处理单行情况，确保格式正确
+                line = clean_lines[0].strip()
+                if line.count('"') == 2:  # 简单格式："进程名":"描述"
+                    result[process_name] = line + '\n'
+                else:  # 复杂格式，需要清理
+                    parts = line.split(':', 1)
+                    if len(parts) == 2:
+                        desc = parts[1].strip().strip('"')
+                        desc = desc.replace('",', '').replace(',"', '')
+                        result[process_name] = f'{parts[0].strip()}:"{desc}"\n'
             else:
                 # 如果没有干净的行，使用原始行中的第一个
-                result[process_name] = lines[0]
-                # logging.info(f"进程 {process_name} 使用原始行中的第一个描述")
+                line = lines[0].strip()
+                if line.count('"') == 2:  # 简单格式
+                    result[process_name] = line + '\n'
+                else:  # 复杂格式，需要清理
+                    parts = line.split(':', 1)
+                    if len(parts) == 2:
+                        desc = parts[1].strip().strip('"')
+                        desc = desc.replace('",', '').replace(',"', '')
+                        result[process_name] = f'{parts[0].strip()}:"{desc}"\n'
         else:
-            result[process_name] = lines[0]
+            # 处理单行情况
+            line = lines[0].strip()
+            if line.count('"') == 2:  # 简单格式
+                result[process_name] = line + '\n'
+            else:  # 复杂格式，需要清理
+                parts = line.split(':', 1)
+                if len(parts) == 2:
+                    desc = parts[1].strip().strip('"')
+                    desc = desc.replace('",', '').replace(',"', '')
+                    result[process_name] = f'{parts[0].strip()}:"{desc}"\n'
     
     logging.info(f"处理完成，共发现 {duplicate_count} 个重复进程")
     return result
