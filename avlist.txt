@@ -1,0 +1,2025 @@
+"360EntClient.exe":["天擎EDR Agent",","天擎edr agent",","天擎EDRAgent",","Tianqing EDR Agent","]
+"360EntMisc.exe":"360(奇安信)天擎",
+"360leakfixer.exe":"已知杀软进程,名称暂未收录",
+"360rp.exe":["360杀毒",","Qihoo-360",","360 Antivirus","]
+"360safe.exe":["360安全卫士-主程序",","360安全卫士",","Qihoo-360",","360安全卫士",","360safeguard-main program","]
+"360safebox.exe":["360杀毒",","360保险箱主程序",","Qihoo-360",","360 Antivirus","]
+"360sd.exe":["360杀毒",","Qihoo-360",","360 Antivirus","]
+"360skylarsvc.exe":["360天擎终端安全管理系统",","360终端安全管理系统",","360天擎服务",","Qihoo-360","]
+"360tray.exe":["360安全卫士-实时保护",","360安全卫士-实时保护",","360实时保护",","360安全卫士",","Qihoo-360",","360 Security Guard-Real-time Protection","]
+"360websafe.exe":["360主机卫士",","360主机卫士","]
+"_avp32.exe":["卡巴斯基",","Kaspersky",","Kaspersky Security","]
+"_avpcc.exe":["卡巴斯基",","Kaspersky",","Kaspersky Security","]
+"_avpm.exe":["卡巴斯基",","Kaspersky",","Kaspersky Security","]
+"A2CMD.exe":["Emsisoft Anti-Malware",","emsisoft anti-malware",","Emsisoft","]
+"A2FREE.exe":["a-squared Free",","a-squared free","]
+"a2guard.exe":["a-squared杀毒",","Emsisoft",","a-squared free",","a-squared antivirus","]
+"A2SERVICE.exe":["a-squared free",","a-squared free","]
+"aAvgApi.exe":["AVG杀毒",","AVG",","avg","]
+"aawservice.exe":"已知杀软进程,名称暂未收录",
+"AAWTray.exe":"Lavasoft",
+"abs_deployer.exe":"Sangfor EDR",
+"ACAAS.exe":"已知杀软进程,名称暂未收录",
+"ACAEGMgr.exe":"已知杀软进程,名称暂未收录",
+"acaif.exe":"已知杀软进程,名称暂未收录",
+"ACAIS.exe":"已知杀软进程,名称暂未收录",
+"AcctMgr.exe":"已知杀软进程,名称暂未收录",
+"ackwin32.exe":"Known anti-software process, the name is not included yet",
+"aclient.exe":"已知杀软进程,名称暂未收录",
+"AClntUsr.exe":"已知杀软进程,名称暂未收录",
+"acronis_license_service.exe":"Acronis",
+"acs.exe":["outpost防火墙",","Agnitum outpost",","Outpost防火墙","]
+"Ad-Aware.exe":"Ad-Aware",
+"Ad-Aware2007.exe":"已知杀软进程,名称暂未收录",
+"ad-watch.exe":["Lavasoft杀毒",","lavasoft杀毒",","Lavasoft Antivirus","]
+"adam.exe":["绿鹰安全精灵",","Green Eagle Security Wizard","]
+"AdAware.exe":"Ad-Aware",
+"adawarebp.exe":"Lavasoft",
+"AdAwareService.exe":"Ad-Aware",
+"AdAwareTray.exe":"Lavasoft",
+"AddressExport.exe":"已知杀软进程,名称暂未收录",
+"Administrator.exe":"已知杀软进程,名称暂未收录",
+"AdminServer.exe":"已知杀软进程,名称暂未收录",
+"ADVCHK.exe":["Norton AntiVirus",","norton antivirus","]
+"advxdwin.exe":"疑似杀软进程",
+"AeXAgentUIHost.exe":"已知杀软进程,名称暂未收录",
+"AeXNSAgent.exe":"已知杀软进程,名称暂未收录",
+"AeXNSRcvSvc.exe":"已知杀软进程,名称暂未收录",
+"aexsvc.exe":"已知杀软进程,名称暂未收录",
+"aexswdusr.exe":"已知杀软进程,名称暂未收录",
+"aflogvw.exe":"已知杀软进程,名称暂未收录",
+"afwServ.exe":["Avast Antivirus",","Avast Antivirus ",","Avast Antivirus",","avast antivirus",","捷克杀毒软件-Avast-Antivirus",","Avast",","Avast Antivirus ","]
+"AGB.exe":["安天防线",","安天防线",","安天杀毒",","Antiy Defense Line","]
+"agentsvr.exe":"疑似杀软进程",
+"agentw.exe":"疑似杀软进程",
+"ahnrpt.exe":"已知杀软进程,名称暂未收录",
+"ahnsd.exe":"已知杀软进程,名称暂未收录",
+"ahnsdsv.exe":"已知杀软进程,名称暂未收录",
+"AHPROCMONSERVER.exe":["安天防线",","安天防线",","安天杀毒",","Antiy Defense Line","]
+"AIRDEFENSE.exe":["AirDefense",","airdefense","]
+"akrnl.exe":"疑似杀软进程",
+"ALERT.exe":"已知杀软进程,名称暂未收录",
+"alertsvc.exe":["Norton AntiVirus",","Norton AntiVirus",","norton antivirus","]
+"alevir.exe":"疑似杀软进程",
+"alisecguard.exe":["阿里云-云盾",","阿里云盾","]
+"aliyun_assist_service.exe":["阿里云-云监控",","阿里云盾","]
+"AliYunDun.exe":["阿里云云盾",","阿里云云盾",","阿里云-云盾",","阿里云盾",","阿里云盾",","AliYunDun","]
+"aliyundunupdate.exe":["阿里云-升级服务",","阿里云盾",","阿里云盾","]
+"ALMon.exe":"已知杀软进程,名称暂未收录",
+"alogserv.exe":["McAfee VirusScan",","mcafee virusscan",","McAfee","]
+"ALsvc.exe":"Sophos AutoUpdate Service",
+"ALUNotify.exe":"已知杀软进程,名称暂未收录",
+"ALUpdate.exe":"Sophos",
+"AluSchedulerSvc.exe":"已知杀软进程,名称暂未收录",
+"amazon-ssm-agent.exe":"亚马逊EC2实例SSM代理",
+"AMediumManager.exe":["安天智甲",","Antiy-AVL","]
+"AMON.exe":["Tiny Personal Firewall",","tiny personal firewall","]
+"amon9x.exe":"疑似杀软进程",
+"AMRT.exe":"TotalDefense",
+"AmSvc.exe":"已知杀软进程,名称暂未收录",
+"amswmagt.exe":"已知杀软进程,名称暂未收录",
+"ananwidget.exe":["墨者安全专家",","Mozhe Security Expert","]
+"anti-trojan.exe":["Anti-Trojan Elite",","anti-trojan elite","]
+"antiarp.exe":"已知杀软进程,名称暂未收录",
+"ANTIVIR.exe":"Known anti-software process, the name is not included yet",
+"antivirus.exe":"疑似杀软进程",
+"ants.exe":"疑似杀软进程",
+"AnVir.exe":"已知杀软进程,名称暂未收录",
+"AnyDesk.exe":"AnyDesk",
+"AosUImanager.exe":"Trend Micro Deep Security",
+"aphost.exe":"已知杀软进程,名称暂未收录",
+"apimonitor.exe":"疑似杀软进程",
+"aplica32.exe":"疑似杀软进程",
+"AppSvc32.exe":"已知杀软进程,名称暂未收录",
+"aps.exe":"已知杀软进程,名称暂未收录",
+"APVXDWIN.exe":["熊猫卫士",","熊猫卫士",","Panda Security",","Panda Guardian","]
+"arcadc.exe":"Arcabit",
+"ArcaMainSV.exe":"Arcabit",
+"ArcaTasksService.exe":["ArcaVir杀毒",","arcavir杀毒",","Arcabit",","ArcaVir Antivirus","]
+"arcavir.exe":"Arcabit",
+"ArcaVirMaster.exe":"Arcabit",
+"armor2net.exe":"疑似杀软进程",
+"arr.exe":["Application Request Route",","application request route","]
+"arsm.exe":"Acronis",
+"ash.ex.exe":"疑似杀软进程",
+"ashAvast.exe":"已知杀软进程,名称暂未收录",
+"ashBug.exe":"已知杀软进程,名称暂未收录",
+"ashChest.exe":"已知杀软进程,名称暂未收录",
+"ashCmd.exe":"已知杀软进程,名称暂未收录",
+"ashDisp.exe":["捷克杀毒软件-Avast-Antivirus",","Avast网络安全",","avast网络安全",","Avast",","Avast Internet Security","]
+"ashenhcd.exe":"疑似杀软进程",
+"ashLogV.exe":"已知杀软进程,名称暂未收录",
+"ASHMAISV.exe":["Alwil",","alwil","]
+"ashpopwz.exe":"疑似杀软进程",
+"ashQuick.exe":"已知杀软进程,名称暂未收录",
+"ASHSERV.exe":["Avast Anti-virus",","avast anti-virus",","捷克杀毒软件-Avast-Antivirus","]
+"ashSimp2.exe":"已知杀软进程,名称暂未收录",
+"ASHSIMPL.exe":["AVAST!VirusCleaner",","avast!viruscleaner",","捷克杀毒软件-Avast-Antivirus","]
+"ashSkPcc.exe":"已知杀软进程,名称暂未收录",
+"ashskpck.exe":"疑似杀软进程",
+"ashUpd.exe":"已知杀软进程,名称暂未收录",
+"ASHWEBSV.exe":["Avast",","avast",","捷克杀毒软件-Avast-Antivirus","]
+"AST.exe":["超级巡警",","超级巡警",","Super Patrol","]
+"asupport.exe":"已知杀软进程,名称暂未收录",
+"aswDisp.exe":"已知杀软进程,名称暂未收录",
+"aswRegSvr.exe":"已知杀软进程,名称暂未收录",
+"ASWSCAN.exe":["Avast",","avast",","捷克杀毒软件-Avast-Antivirus","]
+"aswServ.exe":"已知杀软进程,名称暂未收录",
+"ASWUPDSV.exe":["Avast",","avast",","捷克杀毒软件-Avast-Antivirus","]
+"aswWebSv.exe":"已知杀软进程,名称暂未收录",
+"atcon.exe":"疑似杀软进程",
+"AtDocSecurity.exe":"安天杀毒",
+"atguard.exe":["AntiVir",","antivir","]
+"atmain.exe":"安天杀毒",
+"atro55en.exe":"疑似杀软进程",
+"AtrsHost.exe":"已知杀软进程,名称暂未收录",
+"AtTray.exe":"安天杀毒",
+"AtUpdate.exe":"安天杀毒",
+"atupdater.exe":"Known anti-software process, the name is not included yet",
+"AtUsbScan.exe":"安天杀毒",
+"atwatch.exe":["Mustek",","mustek","]
+"atwsctsk.exe":"已知杀软进程,名称暂未收录",
+"au.exe":["NSIS",","nsis","]
+"aupdate.exe":["Symantec",","symantec","]
+"aupdrun.exe":"已知杀软进程,名称暂未收录",
+"aus.exe":"已知杀软进程,名称暂未收录",
+"Auth8021x.exe":"已知杀软进程,名称暂未收录",
+"auto-protect.nav80try.exe":"Known anti-software process, the name is not included yet",
+"autodown.exe":["AntiVirus AutoUpdater",","antivirus autoupdater","]
+"autotrace.exe":"疑似杀软进程",
+"autoup.exe":"已知杀软进程,名称暂未收录",
+"autoupdate.exe":"疑似杀软进程",
+"av.exe":"已知杀软进程,名称暂未收录",
+"avadmin.exe":"已知杀软进程,名称暂未收录",
+"AvastBrowser.exe":"Avast",
+"AvastSvc.exe":"Avast",
+"AvastUI.exe":["捷克杀毒软件-Avast-Antivirus",","Avast!5主程序",","avast!5主程序",","Avast",","Avast!5 Main Program","]
+"avcenter.exe":["Avira(小红伞)",","avira(小红伞)",","Avira AntiVirus",","Avira（小红伞）","]
+"AVCIMAN.exe":["熊猫卫士",","熊猫卫士",","Panda Guardian","]
+"avconfig.exe":"已知杀软进程,名称暂未收录",
+"avconsol.exe":["McAfee",","McAfee",","mcafee","]
+"ave32.exe":"疑似杀软进程",
+"AvEmUpdate.exe":"捷克杀毒软件-Avast-Antivirus",
+"AVENGINE.exe":["熊猫卫士",","熊猫卫士",","Panda Guardian","]
+"AVESVC.exe":["Avira AntiVir Security Service",","avira antivir security service","]
+"aveval.exe":"疑似杀软进程",
+"AVEVL32.exe":"Known anti-software process, the name is not included yet",
+"avfwsvc.exe":"已知杀软进程,名称暂未收录",
+"avg.exe":["AVG Anti-Virus",","avg杀毒",","AVG",","AVG杀毒","]
+"AVGAM.exe":["AVG",","avg",","AVG杀毒","]
+"avgamsvr.exe":"已知杀软进程,名称暂未收录",
+"avgas.exe":"已知杀软进程,名称暂未收录",
+"avgaurd.exe":["Avira Antivir",","avira antivir",","AVG","]
+"AVGCC.exe":["AVG",","avg",","AVG杀毒","]
+"avgcc32.exe":["AVG杀毒",","AVG",","AVG",","avg",","AVG杀毒","]
+"AVGCHSVX.exe":["AVG",","avg",","AVG杀毒","]
+"AVGCSRVX":"AVG",
+"AVGCSRVX.exe":["AVG",","avg",","AVG杀毒","]
+"avgctrl.exe":["AVG杀毒",","AVG",","AVG",","avg",","AVG杀毒","]
+"avgdiag.exe":"已知杀软进程,名称暂未收录",
+"avgemc.exe":["AVG杀毒",","AVG",","AVG",","avg",","AVG杀毒","]
+"avgfws8.exe":"已知杀软进程,名称暂未收录",
+"avgfws9.exe":"已知杀软进程,名称暂未收录",
+"AVGFWSRV.exe":["AVG",","avg",","AVG杀毒","]
+"AVGIDSAgent.exe":"已知杀软进程,名称暂未收录",
+"AVGIDSMonitor.exe":"已知杀软进程,名称暂未收录",
+"AVGIDSUI.exe":"已知杀软进程,名称暂未收录",
+"AVGIDSWatcher.exe":"已知杀软进程,名称暂未收录",
+"avginet.exe":"已知杀软进程,名称暂未收录",
+"avgmsvr.exe":"已知杀软进程,名称暂未收录",
+"AVGNSX.exe":["AVG",","avg",","AVG杀毒","]
+"avgnt.exe":["Avira(小红伞)",","avira(小红伞)",","Avira AntiVirus",","Avira（小红伞）","]
+"AVGNTMGR.exe":["AVG",","avg",","AVG杀毒","]
+"avgregcl.exe":"已知杀软进程,名称暂未收录",
+"avgrssvc.exe":"已知杀软进程,名称暂未收录",
+"avgrsx.exe":["AVG杀毒",","AVG",","avg","]
+"avgscanx.exe":"已知杀软进程,名称暂未收录",
+"avgserv.exe":["AVG杀毒",","AVG",","AVG",","avg",","AVG杀毒","]
+"avgserv9.exe":["AVG杀毒",","AVG",","avg","]
+"AVGSvc.exe":"AVG",
+"avgsystx.exe":"已知杀软进程,名称暂未收录",
+"AVGTRAY.exe":["AVG",","avg",","AVG杀毒","]
+"avguard.exe":["Avira(小红伞)",","avira(小红伞)",","Avira AntiVirus",","Avira（小红伞）","]
+"AVGUI.exe":"AVG",
+"avgupd.exe":"已知杀软进程,名称暂未收录",
+"avgupdln.exe":"已知杀软进程,名称暂未收录",
+"AVGUPSVC.exe":["AVG",","avg",","AVG杀毒","]
+"avgvv.exe":"已知杀软进程,名称暂未收录",
+"avgw.exe":["AVG杀毒",","AVG",","avg","]
+"avgwb.exe":"已知杀软进程,名称暂未收录",
+"avgwdsvc.exe":["AVG杀毒",","avg杀毒",","AVG",","AVG Antivirus","]
+"avgwizfw.exe":"已知杀软进程,名称暂未收录",
+"AVINITNT.exe":["Command AntiVirus for NT Server",","command antivirus for nt server","]
+"AVIRA.exe":["小红伞杀毒",","小红伞杀毒",","Red Umbrella Antivirus","]
+"AVK.exe":["AntiVirusKit",","antiviruskit",","GData",","gdata安全防护软件",","GData安全防护软件","]
+"avkbackupservice.exe":["gdata安全防护软件",","GData",","G Data备份服务",","GData安全防护软件","]
+"avkcl.exe":["gdata安全防护软件",","GData",","GData",","GData安全防护软件","]
+"avkpop.exe":["G DATA SOFTWARE AG",","g data software ag",","GData","]
+"avkproxy.exe":["gdata安全防护软件",","GData",","G Data杀毒代理",","GData安全防护软件","]
+"avkserv.exe":["G DATA SOFTWARE AG",","g data software ag","]
+"avkservice.exe":["G DATA SOFTWARE AG",","g data software ag",","GData","]
+"AVKTray.exe":"已知杀软进程,名称暂未收录",
+"avkwctl.exe":["gdata安全防护软件",","GData",","G Data文件系统实时监控",","GData安全防护软件","]
+"avkwctl9.exe":["G DATA SOFTWARE AG",","g data software ag","]
+"avltmain.exe":["Panda Software Aplication",","panda software aplication","]
+"avmailc.exe":"已知杀软进程,名称暂未收录",
+"avmcdlg.exe":"已知杀软进程,名称暂未收录",
+"avnotify.exe":"已知杀软进程,名称暂未收录",
+"avnt.exe":["H+BEDV Datentechnik GmbH",","h+bedv datentechnik gmbh","]
+"avp.exe":["Kaspersky",","kaspersky(卡巴斯基)",","卡巴斯基",","Kaspersky（卡巴斯基）","]
+"avp32.exe":"Kaspersky Anti-Virus",
+"avpcc.exe":["Kaspersky AntiVirus",","Kaspersky",","Kaspersky AntiVirus",","Kaspersky","]
+"avpdos32.exe":["Kaspersky AntiVirus",","Kaspersky AntiVirus",","kaspersky antivirus","]
+"AVPDTAgt.exe":"已知杀软进程,名称暂未收录",
+"avpm.exe":["Kaspersky AntiVirus",","Kaspersky",","Kaspersky AntiVirus",","kaspersky antivirus",","Kaspersky","]
+"avpmapp.exe":"eScan",
+"avpncc.exe":"已知杀软进程,名称暂未收录",
+"avps.exe":"已知杀软进程,名称暂未收录",
+"avpsus.exe":"Kaspersky Security",
+"avptc32.exe":["Kaspersky AntiVirus",","Kaspersky AntiVirus",","kaspersky antivirus","]
+"avpui.exe":"Kaspersky Security",
+"avpupd.exe":["Kaspersky AntiVirus",","Kaspersky AntiVirus",","kaspersky antivirus","]
+"avscan.exe":"已知杀软进程,名称暂未收录",
+"AVSCHED32.exe":["H+BEDV",","h+bedv","]
+"AVSERVER.exe":["Kerio MailServer",","kerio mailserver","]
+"avshadow.exe":"已知杀软进程,名称暂未收录",
+"avsynmgr.exe":["McAfee",","McAfee",","mcafee","]
+"Avtask.exe":"已知杀软进程,名称暂未收录",
+"AVWatchService.exe":["VIRUSfighter杀毒",","virusfighter杀毒",","VIRUSfighter",","VIRUSfighter Antivirus","]
+"avwebgrd.exe":"已知杀软进程,名称暂未收录",
+"avwin.exe":["H+BEDV",","H+BEDV",","h+bedv",","H+BEDV Datentechnik GmbH","]
+"avwin95.exe":"疑似杀软进程",
+"avwinnt.exe":"疑似杀软进程",
+"avwupd.exe":"疑似杀软进程",
+"avwupd32.exe":"疑似杀软进程",
+"AVWUPSRV.exe":["H+BEDV",","h+bedv",","H+BEDV Datentechnik GmbH","]
+"avxmonitor.exe":"疑似杀软进程",
+"avxmonitor9x.exe":"疑似杀软进程",
+"avxmonitornt.exe":"疑似杀软进程",
+"avxquar.exe":"疑似杀软进程",
+"AVZ.exe":["AVZ",","avz","]
+"awrem32.exe":"pcanywhere",
+"AYAgent.aye.exe":"韩国胶囊",
+"ayagent.exe":["韩国胶囊",","韩国胶囊",","alyac韩国胶囊杀毒",","ALYac",","ALYac韩国胶囊杀毒","]
+"aylaunch.exe":"ALYac",
+"AYRTSrv.exe":"ALYac",
+"ayupdate2.exe":"ALYac",
+"backweb.exe":"疑似杀软进程",
+"baiduansvx.exe":["百度卫士-主进程",","Baidu AntiVirus",","Baidu Antivirus",","Baidu Guardian-Main Process","]
+"baidusafetray.exe":["百度卫士",","百度卫士","]
+"BaiduSd.exe":["百度杀毒-主程序",","百度杀毒-主程序",","Baidu AntiVirus",","Baidu Antivirus",","Baidu Antivirus-Main Program","]
+"BaiduSdSvc.exe":["百度杀毒-服务进程",","百度杀毒-服务进程",","百度杀软",","Baidu AntiVirus",","Baidu Antivirus",","Baidu Antivirus-Service Process","]
+"BaiduSdTray.exe":["百度杀毒-托盘进程",","百度杀毒-托盘进程",","Baidu AntiVirus",","Baidu Antivirus",","Baidu Antivirus-Tray Process","]
+"BaradAgent.exe":["腾讯云-安全监控组件",","腾讯云-安全监控组件","]
+"bargains.exe":["Exact Advertising SpyWare",","exact advertising spyware","]
+"basfipm.exe":"已知杀软进程,名称暂未收录",
+"bd_professional.exe":"疑似杀软进程",
+"bdagent.exe":["BitDefender Module",","BitDefender","]
+"bdc.exe":"已知杀软进程,名称暂未收录",
+"bddownloader.exe":["百度卫士",","Baidu AntiVirus",","Baidu Antivirus",","Baidu Guardian","]
+"bdlite.exe":"已知杀软进程,名称暂未收录",
+"bdmcon.exe":"已知杀软进程,名称暂未收录",
+"bdredline.exe":"BitDefender",
+"bdreinit.exe":"BitDefender Module",
+"bdservicehost.exe":"BitDefender",
+"bdss.exe":"已知杀软进程,名称暂未收录",
+"bdsubmit.exe":"已知杀软进程,名称暂未收录",
+"BDSubWiz.exe":"BitDefender Module",
+"BDSWITCH.exe":["BitDefender Module",","bitdefender module","]
+"beacon.exe":"CobaltStrike 肉鸡",
+"beagle.exe":["捷克杀毒软件-Avast-Antivirus",","Avast",","avast","]
+"beikesan.exe":["贝壳云安全",","Shell Cloud Security","]
+"belt.exe":"疑似杀软进程",
+"bidef.exe":"疑似杀软进程",
+"bidserver.exe":"疑似杀软进程",
+"bipcp.exe":"疑似杀软进程",
+"bipcpevalsetup.exe":"疑似杀软进程",
+"bisp.exe":"疑似杀软进程",
+"BitDefender.exe":"BitDefender Module",
+"BitDefenderCom.exe":"BitDefender",
+"Bka.exe":"Bkav",
+"BKavService.exe":["Bkav杀毒",","bkav杀毒",","Bkav",","Bkav Antivirus","]
+"BkavUtil.exe":"Bkav",
+"blackd.exe":["BlackICE",","BlackICE",","blackice",","IBM ISS Proventia","]
+"blackice.exe":["BlackICE",","blackice","]
+"blink.exe":["micromedia",","eEye Digital Security","]
+"blss.exe":["CBlaster",","cblaster","]
+"BLuPro.exe":"Bkav",
+"bmrt.exe":"已知杀软进程,名称暂未收录",
+"bootconf.exe":"疑似杀软进程",
+"bootwarn.exe":["Symantec",","symantec","]
+"borg2.exe":"疑似杀软进程",
+"bpc.exe":["Grokster",","grokster","]
+"bpk.exe":"已知杀软进程,名称暂未收录",
+"brasil.exe":["Exact Advertising",","exact advertising","]
+"bs120.exe":"疑似杀软进程",
+"bundle.exe":"疑似杀软进程",
+"bvt.exe":"疑似杀软进程",
+"bwgo0000.exe":"已知杀软进程,名称暂未收录",
+"BWMeterConSvc.exe":"已知杀软进程,名称暂未收录",
+"ca.exe":"已知杀软进程,名称暂未收录",
+"CAAntiSpyware.exe":"已知杀软进程,名称暂未收录",
+"caav.exe":"已知杀软进程,名称暂未收录",
+"caavcmdscan.exe":"已知杀软进程,名称暂未收录",
+"caavguiscan.exe":"已知杀软进程,名称暂未收录",
+"caf.exe":"已知杀软进程,名称暂未收录",
+"cafix.exe":"疑似杀软进程",
+"cafw.exe":"已知杀软进程,名称暂未收录",
+"caissdt.exe":"已知杀软进程,名称暂未收录",
+"CALogDump.exe":"已知杀软进程,名称暂未收录",
+"capfaem.exe":"已知杀软进程,名称暂未收录",
+"capfasem.exe":"已知杀软进程,名称暂未收录",
+"capfsem.exe":"已知杀软进程,名称暂未收录",
+"capmuamagt.exe":"已知杀软进程,名称暂未收录",
+"CAPPActiveProtection.exe":"已知杀软进程,名称暂未收录",
+"CarbonBlackClientSetup.exe":"Carbon Black",
+"casc.exe":"已知杀软进程,名称暂未收录",
+"casecuritycenter.exe":"已知杀软进程,名称暂未收录",
+"caunst.exe":"已知杀软进程,名称暂未收录",
+"cavrep.exe":"已知杀软进程,名称暂未收录",
+"cavrid.exe":"已知杀软进程,名称暂未收录",
+"cavscan.exe":"已知杀软进程,名称暂未收录",
+"cavtray.exe":"已知杀软进程,名称暂未收录",
+"cavwp.exe":"Comodo",
+"CB.exe":"已知杀软进程,名称暂未收录",
+"CCAP.exe":"已知杀软进程,名称暂未收录",
+"ccapp.exe":["SymantecNorton",","norton诺顿杀毒",","Symantec Norton",","Symantec",","Norton",","Norton诺顿杀毒","]
+"ccavsrv.exe":"Comodo",
+"CCenter.exe":"已知杀软进程,名称暂未收录",
+"ccevtmgr.exe":["Norton Internet Security",","Symantec",","symantec",","symantec(赛门铁克)",","norton internet security",","赛门铁克",","Symantec",","Symantec（赛门铁克）","]
+"CClaw.exe":"已知杀软进程,名称暂未收录",
+"ccLgView.exe":"已知杀软进程,名称暂未收录",
+"ccnfagent.exe":"已知杀软进程,名称暂未收录",
+"ccprovsp.exe":"已知杀软进程,名称暂未收录",
+"ccProxy.exe":"已知杀软进程,名称暂未收录",
+"ccpxysvc.exe":"Symantec",
+"ccRegVfy.exe":["Norton杀毒软件",","norton杀毒软件",","Norton杀毒软件自身完整性检查程序",","norton杀毒软件自身完整性检查程序",","Norton",","Norton Antivirus Software","]
+"ccschedulersvc.exe":"已知杀软进程,名称暂未收录",
+"ccSetMgr.exe":["赛门铁克",","赛门铁克",","symantec(赛门铁克)",","Symantec",","Symantec（赛门铁克）","]
+"ccsmagtd.exe":"已知杀软进程,名称暂未收录",
+"ccSvcHst.exe":["Norton杀毒",","norton杀毒",","symantec(赛门铁克) 或 norton(诺顿杀毒)",","赛门铁克",","Norton",","symantec(赛门铁克) 或 norton诺顿杀毒",","Symantec（赛门铁克）或 Norton（诺顿杀毒）",","Norton Antivirus",","Symantec Endpoint Security","]
+"ccsystemreport.exe":"已知杀软进程,名称暂未收录",
+"cctray.exe":"已知杀软进程,名称暂未收录",
+"ccupdate.exe":"已知杀软进程,名称暂未收录",
+"cdp.exe":["CyberLink Corp.",","cyberlink corp.","]
+"CertificationManagerServiceNT.exe":"已知杀软进程,名称暂未收录",
+"cfd.exe":["Motive Communications",","motive communications","]
+"cfftplugin.exe":"已知杀软进程,名称暂未收录",
+"cfgwiz.exe":["Norton AntiVirus",","Norton AntiVirus",","norton antivirus",","Symantec","]
+"cfiadmin.exe":"疑似杀软进程",
+"cfiaudit.exe":"疑似杀软进程",
+"cfinet.exe":"疑似杀软进程",
+"cfinet32.exe":"疑似杀软进程",
+"cfnotsrvd.exe":"已知杀软进程,名称暂未收录",
+"CFP.exe":["COMODO",","comodo",","comodo科摩多",","Comodo科摩多","]
+"cfpconfg.exe":"已知杀软进程,名称暂未收录",
+"cfpconfig.exe":"疑似杀软进程",
+"cfplogvw.exe":"已知杀软进程,名称暂未收录",
+"cfpsbmit.exe":"已知杀软进程,名称暂未收录",
+"cfpupdat.exe":"已知杀软进程,名称暂未收录",
+"cfsmsmd.exe":"已知杀软进程,名称暂未收录",
+"Checkpoint.exe":"Carbon Black",
+"checkup.exe":"已知杀软进程,名称暂未收录",
+"chrome.exe":"Google Chrome",
+"cka.exe":"已知杀软进程,名称暂未收录",
+"CKSoftShiedAntivirus4.exe":["Shield Antivirus杀毒",","shield antivirus杀毒",","Shield Antivirus","]
+"clamd.exe":"SecureAge APEX",
+"clamscan.exe":["clemwin free antivirus",","ClemWin Free Antivirus",","ClamWin","]
+"clamtray.exe":["clemwin free antivirus",","ClemWin Free Antivirus",","ClemWin Free Antivirus",","ClamWin","]
+"CLAMWIN.exe":["ClamWin Portable",","clamwin portable","]
+"Clash for Windows.exe":"Clash for Windows",
+"clash-win64.exe":"Clash",
+"claw95.exe":"Known anti-software process, the name is not included yet",
+"claw95cf.exe":"Known anti-software process, the name is not included yet",
+"clean.exe":["windows流氓软件清理大师",","Master of Windows Rogue Software Cleaner","]
+"cleaner.exe":["windows流氓软件清理大师",","Master of Windows Rogue Software Cleaner","]
+"cleaner3.exe":["windows流氓软件清理大师",","Windows Rogue Software Cleaner Master","]
+"cleaner8.exe":["The Cleaner杀毒",","the cleaner杀毒",","The Cleaner",","The Cleaner Antivirus","]
+"cleanpc.exe":["windows流氓软件清理大师",","Master of Windows Rogue Software Cleaner","]
+"cleanup.exe":["McAfee",","mcafee","]
+"click.exe":"疑似杀软进程",
+"Clnrbin.exe":"Trend Micro Deep Security",
+"CloudHelper.exe":["安全狗/云视通",","安全狗",","安全狗","]
+"cloudmusic.exe":"网易云音乐",
+"CLPS.exe":"已知杀软进程,名称暂未收录",
+"CLPSLA.exe":"已知杀软进程,名称暂未收录",
+"CLPSLS.exe":"已知杀软进程,名称暂未收录",
+"ClShield.exe":"已知杀软进程,名称暂未收录",
+"cmccore.exe":["CMC Endpoint Security",","CMC","]
+"cmcepagent.exe":["CMC Endpoint Security",","CMC","]
+"CMCFMon.exe":["CMC Endpoint Security",","CMC","]
+"CMCLog.exe":["CMC Endpoint Security",","CMC","]
+"CMCNECore.exe":["CMC Endpoint Security",","CMC","]
+"CMCTrayIcon.exe":["CMC杀毒",","cmc杀毒",","CMC",","CMC Antivirus","]
+"cmdagent.exe":["McAfee",","mcafee","]
+"cmdinstall.exe":"已知杀软进程,名称暂未收录",
+"cmdvirth.exe":"Comodo",
+"cmesys.exe":"疑似杀软进程",
+"cmgrdian.exe":"McAfee",
+"cmon016.exe":"疑似杀软进程",
+"CmsGoAgent.windows-amd64..exe":"阿里云监控",
+"CmsGoAgent.windows-amd64.exe":"阿里云监控",
+"CNTAoSMgr.exe":"已知杀软进程,名称暂未收录",
+"Code.exe":"Visual Studio Code",
+"comHost.exe":"已知杀软进程,名称暂未收录",
+"connectionmonitor.exe":"疑似杀软进程",
+"consctl.exe":"eScan",
+"Console.exe":"已知杀软进程,名称暂未收录",
+"control_panel.exe":"已知杀软进程,名称暂未收录",
+"CorantiControlCenter32.exe":["Coranti2012杀毒",","coranti2012杀毒",","Coranti2012",","Coranti2012 Antivirus","]
+"coreFrameworkHost.exe":"亚信DS客户端 - 反恶意软件扫描过程",
+"coreServiceShell.exe":["亚信DS客户端 - 反恶意软件扫描过程",","Trend Micro Deep Security","]
+"cpd.exe":["McAfee",","mcafee","]
+"cpdclnt.exe":"已知杀软进程,名称暂未收录",
+"cpf.exe":["ComodoAnti-virus",","Comodo",","comodo","]
+"cpf9x206.exe":"疑似杀软进程",
+"cpfnt206.exe":"疑似杀软进程",
+"cpmsi_tool.exe":"Carbon Black",
+"CPntSrv.exe":"已知杀软进程,名称暂未收录",
+"CrAmTray.exe":"Cybereason",
+"crashrep.exe":"已知杀软进程,名称暂未收录",
+"CrsSvc.exe":"已知杀软进程,名称暂未收录",
+"csacontrol.exe":"已知杀软进程,名称暂未收录",
+"CSFalconContainer.exe":"CrowdStrike Falcon",
+"csfalconservice.exe":"CrowdStrike Falcon",
+"csinject.exe":"已知杀软进程,名称暂未收录",
+"csinsm32.exe":"已知杀软进程,名称暂未收录",
+"csinsmnt.exe":"已知杀软进程,名称暂未收录",
+"csrss_tc.exe":"已知杀软进程,名称暂未收录",
+"CTDataLoad.exe":"已知杀软进程,名称暂未收录",
+"ctrl.exe":"Known anti-software process, the name is not included yet",
+"CUREIT.exe":["DrWeb CureIT",","drweb cureit","]
+"cv.exe":["TamoSoft",","Known anti-software process, the name is not included yet","]
+"cwnb181.exe":"疑似杀软进程",
+"cwntdwmo.exe":"疑似杀软进程",
+"CybereasonAV.exe":"Cybereason",
+"CybereasonRansomFree.exe":"Cybereason",
+"CybereasonRansomFreeServiceHost.exe":"Cybereason",
+"CybereasonSensor.exe":"Cybereason",
+"CylanceProtectSetup.exe":"Cylance Smart Antivirus",
+"CylanceSvc.exe":["Cylance",","Cylance Smart Antivirus","]
+"CylanceUI.exe":["Cylance Smart Antivirus",","Cylance Smart Antivirus","]
+"CynetAR.exe":"Cynet",
+"CynetDS.exe":"Cynet",
+"CynetEPS.exe":"Cynet",
+"CynetGW.exe":"Cynet",
+"CynetLauncher.exe":"Cynet",
+"CynetMS.exe":"Cynet",
+"CynetSD64.exe":"Cynet",
+"cyupdate.exe":"Cylance Smart Antivirus",
+"cz.exe":"已知杀软进程,名称暂未收录",
+"d_manage.exe":["D盾",","d盾",","D 盾",","D Safe",","D shield","]
+"D_Safe_Manage.exe":["D盾",","d盾",","D 盾",","D Safe",","D Shield","]
+"DAO_Log.exe":"已知杀软进程,名称暂未收录",
+"dasc.exe":"eGambit",
+"dastray.exe":"eGambit",
+"DataStruct.dll.exe":"Carbon Black",
+"datemanager.exe":"疑似杀软进程",
+"dbserv.exe":"已知杀软进程,名称暂未收录",
+"dbsrv9.exe":"已知杀软进程,名称暂未收录",
+"dcomx.exe":"疑似杀软进程",
+"Deep Security Agent.exe":"亚信安全服务器深度安全防护系统",
+"Deep Security Manager.exe":"亚信DS服务端 - 安全管理",
+"Deep Security Monitor.exe":"亚信安全服务器深度安全防护系统",
+"Deep Security Notified.exe":"亚信安全服务器深度安全防护系统",
+"defalert.exe":["Symantec",","symantec","]
+"DEFENDERDAEMON.exe":["ShadowDefender",","shadowdefender","]
+"defscangui.exe":["Symantec",","symantec","]
+"defwatch.exe":["Norton Antivirus",","Norton Antivirus",","norton antivirus","]
+"deloeminfs.exe":"已知杀软进程,名称暂未收录",
+"deputy.exe":"疑似杀软进程",
+"diskmon.exe":"已知杀软进程,名称暂未收录",
+"divx.exe":"疑似杀软进程",
+"djsnetcn.exe":"已知杀软进程,名称暂未收录",
+"dllcache.exe":"疑似杀软进程",
+"dllreg.exe":"疑似杀软进程",
+"DLService.exe":"已知杀软进程,名称暂未收录",
+"DLTray.exe":"已知杀软进程,名称暂未收录",
+"DolphinCharge.exe":"已知杀软进程,名称暂未收录",
+"doors.exe":"Known anti-software process, the name is not included yet",
+"doscan.exe":"已知杀软进程,名称暂未收录",
+"dpf.exe":"Known anti-software process, the name is not included yet",
+"dpfsetup.exe":"疑似杀软进程",
+"dpps2.exe":["PanicWare",","panicware","]
+"drvirus.exe":"疑似杀软进程",
+"DRWADINS.exe":["Dr.Web",","dr.web","]
+"DRWAGNTD.exe":"已知杀软进程,名称暂未收录",
+"DRWAGNUI.exe":"已知杀软进程,名称暂未收录",
+"drwatson.exe":["Microsoft security essentials",","Microsoft defender","]
+"DRWEB.exe":["Dr.Web",","dr.web","]
+"drweb32.exe":"疑似杀软进程",
+"drweb32w.exe":"DrWeb",
+"drweb386.exe":"已知杀软进程,名称暂未收录",
+"drwebcgp.exe":"已知杀软进程,名称暂未收录",
+"drwebcom.exe":"DrWeb",
+"drwebdc.exe":"已知杀软进程,名称暂未收录",
+"drwebmng.exe":"已知杀软进程,名称暂未收录",
+"drwebscd.exe":"DrWeb",
+"drwebupw.exe":"疑似杀软进程",
+"drwebwcl.exe":"已知杀软进程,名称暂未收录",
+"drwebwin.exe":"已知杀软进程,名称暂未收录",
+"DRWINST.exe":"已知杀软进程,名称暂未收录",
+"drwupgrade.exe":"已知杀软进程,名称暂未收录",
+"ds_agent.exe":"Trend Micro Deep Security",
+"ds_monitor.exe":"亚信安全服务器深度安全防护系统",
+"dsa.exe":["亚信DS客户端 - 代理的主要进程",","亚信安全服务器深度安全防护系统","]
+"DSMain.exe":"已知杀软进程,名称暂未收录",
+"dssagent.exe":["Broderbund",","broderbund","]
+"dsvp.exe":"亚信DS客户端 - 中继服务器进程",
+"dtplat.dll.exe":"Carbon Black",
+"dukto.exe":"dukto",
+"dvp95.exe":"疑似杀软进程",
+"dvp95_0.exe":"疑似杀软进程",
+"dwebio.exe":"疑似杀软进程",
+"dwebllio.exe":"疑似杀软进程",
+"dwengine.exe":"DrWeb",
+"dwengine.exes":"DrWeb",
+"DWHWizrd.exe":"已知杀软进程,名称暂未收录",
+"dwwin.exe":"已知杀软进程,名称暂未收录",
+"ecengine.exe":"Known anti-software process, the name is not included yet",
+"ecls.exe":"ESET-NOD32",
+"ecmd.exe":"ESET Endpoint Security",
+"edisk.exe":"已知杀软进程,名称暂未收录",
+"edr_agent.exe":["深信服EDR Agent",","深信服EDRAgent",","Sangfor EDR Agent","]
+"Edr_CCMon.exe":"启明星辰-天珣EDR",
+"edr_monitor.exe":["深信服EDR Agent",","深信服EDRAgent",","Sangfor EDR Agent","]
+"edr_sec_plan.exe":["深信服EDR Agent",","深信服EDRAgent",","Sangfor EDR Agent","]
+"EDRControl.exe":"启明星辰-天珣EDR",
+"eeyeevnt.exe":"eEye Digital Security",
+"efpeadm.exe":"疑似杀软进程",
+"egui.exe":["ESET NOD32",","eset nod32防毒",","NOD32",","ESET-NOD32",","ESET NOD32防毒",","ESET Endpoint Security","]
+"eguiProxy.exe":["ESET NOD32",","eset nod32",","eset nod32防毒",","ESET-NOD32",","ESET NOD32防毒","]
+"EHttpSrv.exe":"ESET Endpoint Security",
+"ekrn.exe":["ESET NOD32",","eset nod32防毒",","ESET-NOD32",","ESET NOD32防毒",","ESET Endpoint Security","]
+"elastic-agent.exe":"Elastic Endpoint Security",
+"elastic-endpoint.exe":"Elastic Endpoint Security",
+"elogsvc.exe":"已知杀软进程,名称暂未收录",
+"emet_agent.exe":["增强减灾体验工具-EMET",","EMET",","emet",","Enhanced Mitigation Experience Toolkit","]
+"emet_service.exe":["增强减灾体验工具-EMET",","EMET",","emet",","Microsoft security essentials",","Enhanced Mitigation Experience Toolkit",","Microsoft defender","]
+"EMLibUpdateAgentNT.exe":"已知杀软进程,名称暂未收录",
+"EMLPROUI.exe":"已知杀软进程,名称暂未收录",
+"EMLPROXY.exe":"已知杀软进程,名称暂未收录",
+"emsw.exe":["Alset Inc",","alset inc","]
+"emu-cci.exe":"ESET Endpoint Security",
+"emu-gui.exe":"ESET Endpoint Security",
+"emu-rep.exe":"ESET Endpoint Security",
+"emu-uninstall.exe":"ESET Endpoint Security",
+"emu_install.exe":"ESET Endpoint Security",
+"endgame.exe":"Endgame",
+"Endpoint Security Management System.exe":"天擎EDRAgent",
+"EndPointSecurity.exe":"已知杀软进程,名称暂未收录",
+"engineserver.exe":["McAfee",","mcafee(麦咖啡)",","Mcafee",","McAfee（麦咖啡）","]
+"ent.exe":["['Essential-NetTools','增强减灾体验工具-EMET','Broderbund','McAfee','天擎EDRAgent','深信服EDRAgent','天眼云镜','蓝鲸Agent']",","TamoSoft",","Known anti-software process, the name is not included yet","]
+"EntityMain.exe":"已知杀软进程,名称暂未收录",
+"epcgina.dll.exe":"Carbon Black",
+"epcgina_user64.dll.exe":"Carbon Black",
+"EPCUserAvatar.exe":"Fortinet",
+"epefprtrainer.exe":"McAfee",
+"era.exe":"已知杀软进程,名称暂未收录",
+"esafe.exe":"疑似杀软进程",
+"ESAV.exe":["启明星辰天珣EDR Agent",","启明星辰天珣edr agent",","启明星辰天珣EDRAgent",","Venus Star EDR Agent","]
+"escanh95.exe":"疑似杀软进程",
+"escanhnt.exe":"疑似杀软进程",
+"escanv95.exe":"疑似杀软进程",
+"ESCC.exe":["启明星辰天珣EDR Agent",","启明星辰天珣edr agent",","启明星辰天珣EDRAgent",","Venus EDR Agent","]
+"ESCCControl.exe":["启明星辰天珣EDR Agent",","启明星辰天珣edr agent",","启明星辰天珣EDRAgent",","Venus EDR Agent","]
+"ESCCIndex.exe":["启明星辰天珣EDR Agent",","启明星辰天珣edr agent",","启明星辰天珣EDRAgent",","Venus Star EDR Agent","]
+"ESCCSd.exe":"启明星辰-天珣EDR",
+"ESCCSdSvr.exe":"启明星辰-天珣EDR",
+"ESCCSdTray.exe":"启明星辰-天珣EDR",
+"ESConfigTool.exe":"McAfee",
+"esecagntservice.exe":"已知杀软进程,名称暂未收录",
+"esecservice.exe":"已知杀软进程,名称暂未收录",
+"eshasrv.exe":["eset nod32防毒",","ESET NOD32",","ESET-NOD32",","ESET NOD32防毒","]
+"esmagent.exe":"已知杀软进程,名称暂未收录",
+"espwatch.exe":"Known anti-software process, the name is not included yet",
+"etagent.exe":"已知杀软进程,名称暂未收录",
+"ETConsole3.exe":"已知杀软进程,名称暂未收录",
+"ETCorrel.exe":"已知杀软进程,名称暂未收录",
+"ethereal.exe":["RationalClearCase",","rationalclearcase","]
+"ETLogAnalyzer.exe":"已知杀软进程,名称暂未收录",
+"ETReporter.exe":"已知杀软进程,名称暂未收录",
+"ETRssFeeds.exe":"已知杀软进程,名称暂未收录",
+"etrustcipe.exe":"疑似杀软进程",
+"EtScheduler.exe":"已知杀软进程,名称暂未收录",
+"EtwControlPanel.exe":"已知杀软进程,名称暂未收录",
+"EUQMonitor.exe":"已知杀软进程,名称暂未收录",
+"EventParser.exe":"已知杀软进程,名称暂未收录",
+"Everything.exe":"Everything 搜索",
+"EverythingServer.exe":"SecureAge APEX",
+"evpn.exe":"疑似杀软进程",
+"evtarmgr.exe":"已知杀软进程,名称暂未收录",
+"evtmgr.exe":"已知杀软进程,名称暂未收录",
+"evtProcessEcFile.exe":"已知杀软进程,名称暂未收录",
+"EWIDOCTRL.exe":["Ewido Security Suite",","ewido security suite","]
+"exantivirus-cnet.exe":"疑似杀软进程",
+"exe.avxw.exe":"Known anti-software process, the name is not included yet",
+"execstat.exe":"已知杀软进程,名称暂未收录",
+"expert.exe":"Known anti-software process, the name is not included yet",
+"explore.exe":"疑似杀软进程",
+"EZANTIVIRUSREGISTRATIONCHECK.exe":["e-Trust Antivirus",","e-trust antivirus","]
+"f-agnt95.exe":"F-Prot",
+"F-PROT.exe":["F-Prot AntiVirus",","f-prot antivirus",","f-prot杀毒",","F-PROT杀毒",","F-Prot",","F-Prot杀毒","]
+"f-prot95.exe":["F-Prot",","Known anti-software process, the name is not included yet","]
+"f-sched.exe":"疑似杀软进程",
+"f-secure.exe":["冰岛",","f-secure冰岛杀毒",","F-Secure",","F-Secure冰岛杀毒",","Iceland","]
+"f-stopw.exe":"F-Prot",
+"fameh32.exe":"F-Secure",
+"fast.exe":["FastUsr",","FastUsr",","fastusr","]
+"fcag.exe":"McAfee",
+"fcagate.exe":"McAfee",
+"fcags.exe":"McAfee",
+"fcagswd.exe":"McAfee",
+"fcappdb.exe":"Fortinet",
+"fccomint.exe":["Fortinet",","Fortinet","]
+"FCConfig.exe":"Fortinet",
+"fcdblog.exe":"Fortinet",
+"fch32.exe":["F-Secure",","f-secure","]
+"fclanguageselector.exe":"Fortinet",
+"FcTray.exe":"天擎EDRAgent",
+"FCVbltScan.exe":"Fortinet",
+"fcwizard.exe":"Fortinet",
+"fcwscd7.exe":"Fortinet",
+"fih32.exe":["F-Secure",","f-secure","]
+"FileHash_DYN.dll.exe":"Carbon Black",
+"filemon.exe":"疑似杀软进程",
+"findviru.exe":["F-Secure",","f-secure","]
+"firefox.exe":"Firefox",
+"firesvc.exe":["McAfee",","mcafee","]
+"firetray.exe":["McAfee",","mcafee","]
+"firewall.exe":["AshampooSoftware",","AshampooSoftware",","ashampoosoftware","]
+"FirewallGUI.exe":"已知杀软进程,名称暂未收录",
+"fmon.exe":"已知杀软进程,名称暂未收录",
+"fnrb32.exe":["F-Secure",","f-secure","]
+"ForceField.exe":"已知杀软进程,名称暂未收录",
+"ForceUpdateAlongSideSGN.exe":"Sophos",
+"FortiAvatar.exe":"Fortinet",
+"FortiClient.exe":["Fortinet",","Fortinet","]
+"FortiClient_Diagnostic_Tool.exe":"Fortinet",
+"FortiESNAC.exe":"Fortinet",
+"fortifw.exe":"Fortinet",
+"fortifws.exe":"Fortinet",
+"fortiproxy.exe":["Fortinet",","Fortinet","]
+"fortiscan.exe":"疑似杀软进程",
+"FortiScand.exe":["Fortinet",","Fortinet","]
+"FortiSSLVPNdaemon.exe":"Fortinet",
+"FortiTray.exe":["飞塔",","飞塔",","Fortinet",","FortiTray",","Fortinet","]
+"fortivpnst.exe":"Fortinet",
+"fortiwad.exe":["Fortinet",","Fortinet","]
+"fortiwadbd.exe":["Fortinet",","Fortinet","]
+"fortiwf.exe":["Fortinet",","Fortinet","]
+"fp-win.exe":["F-Prot Antivirus OnDemand",","F-Prot Antivirus OnDemand",","f-prot antivirus ondemand","]
+"fp-win_trial.exe":"疑似杀软进程",
+"FPAVServer.exe":"F-Prot",
+"fprot.exe":"疑似杀软进程",
+"FPROTTRAY.exe":["F-PROT Antivirus",","f-prot antivirus",","F-Prot","]
+"FPWIN.exe":["Verizon",","verizon","]
+"Frameworkservice.exe":["McAfee",","mcafee",","mcafee(麦咖啡)",","Mcafee",","Mcafee",","McAfee（麦咖啡）","]
+"FreeProxy.exe":"已知杀软进程,名称暂未收录",
+"FRESHCLAM.exe":["ClamAV",","clamav",","ClamAV","]
+"frminst.exe":["McAfee",","mcafee","]
+"frpc.exe":"frpc",
+"frps.exe":"frps",
+"frw.exe":"疑似杀软进程",
+"fsaa.exe":["F-Secure",","f-secure","]
+"FSAEConfig.exe":"Fortinet",
+"fsaua.exe":"已知杀软进程,名称暂未收录",
+"fsav.exe":["F-Secure",","f-secure","]
+"fsav32.exe":["F-Secure",","F-Secure",","f-secure","]
+"fsav530stbyb.exe":["F-Secure",","f-secure","]
+"fsav530wtbyb.exe":["F-Secure",","f-secure","]
+"fsav95.exe":["F-Secure",","f-secure","]
+"fsavgui.exe":["F-Secure杀毒",","f-secure冰岛杀毒",","F-Secure",","F-Secure冰岛杀毒",","F-Secure Antivirus","]
+"FSBWSYS.exe":["F-secure",","f-secure","]
+"FSCUIF.exe":"已知杀软进程,名称暂未收录",
+"FSDFWD.exe":["F-Secure",","f-secure","]
+"fsgk32.exe":["F-Secure",","F-Secure",","f-secure","]
+"FSGK32ST.exe":["F-Secure",","f-secure","]
+"fsgu.exe":"疑似杀软进程",
+"fsguidll.exe":"已知杀软进程,名称暂未收录",
+"FSHDLL32.exe":"已知杀软进程,名称暂未收录",
+"fsm32.exe":["F-Secure",","f-secure","]
+"fsma32.exe":["F-Secure",","F-Secure",","f-secure","]
+"fsmb32.exe":["F-Secure",","F-Secure",","f-secure","]
+"fsorsp.exe":"已知杀软进程,名称暂未收录",
+"Fsorsp64.exe":"F-Secure",
+"fspc.exe":"已知杀软进程,名称暂未收录",
+"fspex.exe":"疑似杀软进程",
+"fsqh.exe":"已知杀软进程,名称暂未收录",
+"FSSM32.exe":["F-Secure",","f-secure",","F-Secure","]
+"FSSOMA.exe":"Fortinet",
+"FWCfg.exe":"已知杀软进程,名称暂未收录",
+"fwinst.exe":"已知杀软进程,名称暂未收录",
+"FWInstCheck.exe":"McAfee",
+"FwWindowsFirewallHandler.exe":"McAfee",
+"FYFireWall.exe":["风云防火墙",","风云防火墙",","FYFireWall","]
+"G6FTPServer.exe":"Gene6 FTP Server",
+"G6FTPTray.exe":"Gene6 FTP",
+"gator.exe":"疑似杀软进程",
+"gbmenu.exe":"Known anti-software process, the name is not included yet",
+"gbpoll.exe":"疑似杀软进程",
+"gcascleaner.exe":"已知杀软进程,名称暂未收录",
+"gcasdtserv.exe":"疑似杀软进程",
+"gcasinstallhelper.exe":"已知杀软进程,名称暂未收录",
+"gcasnotice.exe":"已知杀软进程,名称暂未收录",
+"gcasserv.exe":"疑似杀软进程",
+"gcasservalert.exe":"已知杀软进程,名称暂未收录",
+"gcasswupdater.exe":"已知杀软进程,名称暂未收录",
+"GDFirewallTray.exe":"已知杀软进程,名称暂未收录",
+"GDFwSvc.exe":"已知杀软进程,名称暂未收录",
+"gdscan.exe":["gdata安全防护软件",","GData",","G Data扫描器",","GData安全防护软件","]
+"geek.exe":"geek",
+"generics.exe":"疑似杀软进程",
+"gfireporterservice.exe":"已知杀软进程,名称暂未收录",
+"GG.exe":["巨盾网游安全盾",","巨盾网游安全盾",","Great Shield Online Game Security Shield","]
+"ghost_2.exe":"已知杀软进程,名称暂未收录",
+"ghosttray.exe":"已知杀软进程,名称暂未收录",
+"giantantispyware.exe":"疑似杀软进程",
+"giantantispywaremain.exe":"已知杀软进程,名称暂未收录",
+"giantantispywareupdater.exe":"已知杀软进程,名称暂未收录",
+"gmt.exe":"疑似杀软进程",
+"gov_defence_daemon.exe":["云锁",","govdefence(网防G01)",","govdefence(网防g01)",","GovDefence（网防G01）",","Cloud Lock","]
+"gov_defence_service.exe":["云锁",","govdefence(网防G01)",","govdefence(网防g01)",","GovDefence（网防G01）",","Cloud Lock","]
+"gse_win_agent.exe":["蓝鲸Agent",","Blue Whale Agent","]
+"gse_win_daemon.exe":["蓝鲸Agent",","Blue Whale Agent","]
+"guard.exe":"ewido",
+"guarddog.exe":["ewido",","McAfee","]
+"GUARDGUI.exe":["网游保镖",","网游保镖",","Online Game Bodyguard","]
+"GUARDNT.exe":["IKARUS",","ikarus","]
+"guardxkickoff.exe":"Ikarus",
+"guardxservice.exe":"Ikarus",
+"hacktracersetup.exe":"疑似杀软进程",
+"hbinst.exe":"疑似杀软进程",
+"hbsrv.exe":"疑似杀软进程",
+"HipsDaemon.exe":["火绒",","火绒",","火绒安全软件",","火绒安全",","火绒安全软件",","Huorong",","Tinder","]
+"hipslog.exe":["火绒安全软件",","火绒",","火绒安全",","火绒安全软件",","Huorong","]
+"hipsmain.exe":["火绒安全软件",","火绒",","火绒安全",","火绒安全软件",","Huorong","]
+"hipstray.exe":["火绒",","火绒",","火绒安全软件",","火绒安全",","火绒安全软件",","Huorong",","Tinder","]
+"hipsvc.exe":["McAfee",","mcafee","]
+"hotactio.exe":"疑似杀软进程",
+"hotpatch.exe":"疑似杀软进程",
+"hregmon.exe":"疑似杀软进程",
+"hrres.exe":"疑似杀软进程",
+"hsockpe.exe":"疑似杀软进程",
+"htlog.exe":"Known anti-software process, the name is not included yet",
+"htpatch.exe":["Silicon Integrated Systems Corporation",","silicon integrated systems corporation","]
+"huorong.exe":"火绒",
+"hupdate.exe":"疑似杀软进程",
+"HWAPI.exe":"已知杀软进程,名称暂未收录",
+"hwpe.exe":"Known anti-software process, the name is not included yet",
+"hws.exe":["护卫神",","护卫神·入侵防护系统",","HWS",","Guardian God","]
+"hws_ui.exe":["护卫神",","护卫神·入侵防护系统",","HWS",","Guardian God","]
+"hwsd.exe":["护卫神",","护卫神·入侵防护系统",","HWS",","Guardian God","]
+"HwsHostMaster.exe":"护卫神主机卫士",
+"HwsHostPanel.exe":"护卫神主机卫士",
+"HwsPanel.exe":["护卫神",","护卫神",","护卫神·入侵防护系统",","护卫神·入侵防护系统",","HWS",","Guardian God","]
+"hxdl.exe":"疑似杀软进程",
+"hxiul.exe":"疑似杀软进程",
+"iamapp.exe":["Symantec",","Symantec",","symantec",","Norton","]
+"iamserv.exe":["Symantec",","symantec","]
+"iamstats.exe":["Symantec",","symantec","]
+"ibmasn.exe":"疑似杀软进程",
+"ibmavsp.exe":"疑似杀软进程",
+"IcePack.exe":"已知杀软进程,名称暂未收录",
+"icload95.exe":"疑似杀软进程",
+"icloadnt.exe":"疑似杀软进程",
+"icmon.exe":"Sophos AV",
+"ICSC.exe":"启明星辰-天珣EDR",
+"icssuppnt.exe":"疑似杀软进程",
+"icsupp95.exe":"疑似杀软进程",
+"icsuppnt.exe":"疑似杀软进程",
+"ida.exe":["ida",","IDA(调试机)","]
+"ida64.exe":["ida64",","IDAx64(调试机)","]
+"idea64.exe":"IDEA工具",
+"idle.exe":"疑似杀软进程",
+"IdsInst.exe":"已知杀软进程,名称暂未收录",
+"iedll.exe":"疑似杀软进程",
+"iedriver.exe":["Urlblaze.com",","Urlblaze.com",","urlblaze.com","]
+"iface.exe":["Panda Antivirus Module",","panda antivirus module","]
+"ifw2000.exe":"疑似杀软进程",
+"igateway.exe":"已知杀软进程,名称暂未收录",
+"Imagine.exe":"Imagine",
+"inetlnfo.exe":"疑似杀软进程",
+"inetupd.exe":"疑似杀软进程",
+"infus.exe":["Infus Dialer",","infus dialer","]
+"infwin.exe":["Msviewparasite",","msviewparasite","]
+"inicio.exe":"已知杀软进程,名称暂未收录",
+"init.exe":"疑似杀软进程",
+"INOCIT.exe":["eTrust",","etrust","]
+"InoNmSrv.exe":"已知杀软进程,名称暂未收录",
+"INORPC.exe":["eTrust",","etrust","]
+"INORT.exe":["eTrust",","etrust","]
+"INOTASK.exe":["eTrust",","etrust","]
+"INOUPTNG.exe":["eTrust",","etrust","]
+"InoWeb.exe":"已知杀软进程,名称暂未收录",
+"InstWrap.exe":"Symantec Endpoint Security",
+"intdel.exe":["Inet Delivery",","inet delivery","]
+"intren.exe":"Known anti-software process, name is not included yet",
+"iomon98.exe":"疑似杀软进程",
+"Iparmor.exe":["木马克星",","木马克星","]
+"Iparmor.exe.exe":["木马克星",","Trojan Marker","]
+"iptray.exe":["Immunet杀毒",","immunet杀毒",","Immunet",","Immunet Antivirus","]
+"ISAFE.exe":["eTrust",","etrust","]
+"isafinst.exe":"已知杀软进程,名称暂未收录",
+"isatray.exe":"疑似杀软进程",
+"IsntSmtp.exe":"已知杀软进程,名称暂未收录",
+"ISNTSysMonitor.exe":"已知杀软进程,名称暂未收录",
+"isPwdSvc.exe":"Symantec Endpoint Security",
+"ISSVC.exe":"已知杀软进程,名称暂未收录",
+"istsvc.exe":"疑似杀软进程",
+"isUAC.exe":"已知杀软进程,名称暂未收录",
+"ISWMGR.exe":"已知杀软进程,名称暂未收录",
+"ITMRT_SupportDiagnostics.exe":"已知杀软进程,名称暂未收录",
+"ITMRT_TRACE.exe":"已知杀软进程,名称暂未收录",
+"ITMRTSVC.exe":"已知杀软进程,名称暂未收录",
+"jammer.exe":"Known anti-software process, the name is not included yet",
+"jdbgmrg.exe":"疑似杀软进程",
+"jedi.exe":"疑似杀软进程",
+"JingYunMonSvr.exe":"景云防病毒",
+"JingyunSdMainSvr.exe":"景云防病毒",
+"JingyunSdSvr.exe":"景云防病毒",
+"JingyunSdTray.exe":"景云防病毒",
+"jmpserv.exe":"360天擎 NAC RPC服务",
+"K7TSecurity.exe":["K7杀毒",","k7杀毒",","K7AntiVirus",","K7 Antivirus","]
+"K7TSMain.exe":["K7AntiVirus",","K7AntiVirus","]
+"K7TSUpdT.exe":"K7AntiVirus",
+"KABackReport.exe":"已知杀软进程,名称暂未收录",
+"kaccore.exe":"已知杀软进程,名称暂未收录",
+"KANMCMain.exe":"已知杀软进程,名称暂未收录",
+"kansgui.exe":"已知杀软进程,名称暂未收录",
+"kansvr.exe":"已知杀软进程,名称暂未收录",
+"kastray.exe":"已知杀软进程,名称暂未收录",
+"KAV.exe":["Kaspersky",","kaspersky","]
+"kav32.exe":"已知杀软进程,名称暂未收录",
+"KavAdapte.exe":"已知杀软进程,名称暂未收录",
+"kavfs.exe":["kaspersky(卡巴斯基)",","Kaspersky",","Kaspersky安全服务流程",","Kaspersky（卡巴斯基）","]
+"kavfsgt.exe":"Kaspersky安全管理服务流程",
+"kavfsmui.exe":"Kaspersky紧凑型诊断接口组件的流程",
+"kavfsrcn.exe":"Kaspersky Security for Windows Server 远程管理进程",
+"kavfsscs.exe":"Kaspersky安全脚本检查器服务",
+"kavfswh.exe":"KasperskySecurity 漏洞利用防护服务流程",
+"kavfswp.exe":["kaspersky(卡巴斯基)",","Kaspersky",","Kaspersky安全软件 Windows Server 工作流程",","Kaspersky（卡巴斯基）","]
+"kavisarv.exe":"已知杀软进程,名称暂未收录",
+"kavlite40eng.exe":"疑似杀软进程",
+"kavlotsingleton.exe":"已知杀软进程,名称暂未收录",
+"KAVMM.exe":["Kaspersky",","kaspersky","]
+"kavpers40eng.exe":"疑似杀软进程",
+"kavpf.exe":["Kapersky",","Kaspersky",","kaspersky",","Kaspersky","]
+"KAVPFW.exe":["Kaspersky",","kaspersky","]
+"kavshell.exe":"Kaspersky命令行实用程序进程",
+"kavss.exe":"已知杀软进程,名称暂未收录",
+"KAVSTART.exe":["Kaspersky",","kaspersky","]
+"KAVSVC.exe":["Kaspersky",","kaspersky","]
+"KAVSVCUI.exe":["Kaspersky",","kaspersky","]
+"kavtray.exe":["kaspersky(卡巴斯基)",","Kaspersky",","Kaspersky系统托盘图标的处理",","Kaspersky（卡巴斯基）","]
+"kazza.exe":["Kapersky",","kaspersky","]
+"keenvalue.exe":["EUNIVERSE INC",","euniverse inc","]
+"kerio-pf-213-en-win.exe":"疑似杀软进程",
+"kerio-wrl-421-en-win.exe":"疑似杀软进程",
+"kerio-wrp-421-en-win.exe":"疑似杀软进程",
+"kernel32.exe":"疑似杀软进程",
+"KeyPass.exe":"已知杀软进程,名称暂未收录",
+"killprocesssetup161.exe":"疑似杀软进程",
+"kis.exe":"已知杀软进程,名称暂未收录",
+"kislive.exe":"已知杀软进程,名称暂未收录",
+"kismain.exe":["安天智甲",","Antiy-AVL","]
+"kissvc.exe":"已知杀软进程,名称暂未收录",
+"kl_platf.exe":"Kaspersky Security",
+"klnacserver.exe":"已知杀软进程,名称暂未收录",
+"klnagent.exe":["kaspersky(卡巴斯基)",","Kaspersky",","Kaspersky（卡巴斯基）",","Kaspersky Security","]
+"klnagwds.exe":"Kaspersky Security",
+"klnsacwsrv.exe":"Kaspersky Security",
+"klserver.exe":"已知杀软进程,名称暂未收录",
+"klswd.exe":"已知杀软进程,名称暂未收录",
+"klwtblfs.exe":"已知杀软进程,名称暂未收录",
+"KMAILMON.exe":["金山毒霸",","金山毒霸",","Kingsoft Internet Security","]
+"knownsvr.exe":"已知杀软进程,名称暂未收录",
+"knsdtray.exe":["可牛杀毒",","Kniu Antivirus","]
+"KNUpdateMain.exe":"已知杀软进程,名称暂未收录",
+"kpf4gui.exe":"已知杀软进程,名称暂未收录",
+"kpf4ss.exe":"已知杀软进程,名称暂未收录",
+"kpfw32.exe":"已知杀软进程,名称暂未收录",
+"KPFWSvc.exe":"已知杀软进程,名称暂未收录",
+"kpfwtray.exe":["金山网镖",","Kingsoft",","Jinshan Net Dart","]
+"krbcc32s.exe":"已知杀软进程,名称暂未收录",
+"ksafe.exe":["金山卫士",","金山毒霸",","Kingsoft",","Jinshan Guardian","]
+"KSafeSvc.exe":["金山毒霸",","金山毒霸",","Kingsoft",","Kingsoft Internet Security","]
+"KSafeTray.exe":["金山毒霸",","金山毒霸",","金山卫士",","Kingsoft",","金山卫士",","Kingsoft Internet Security","]
+"kscan.exe":["安天智甲",","Antiy-AVL","]
+"KSWebShield.exe":["金山网盾",","金山网盾",","Kingsoft",","Kingsoft Network Shield","]
+"kupdata.exe":["金山毒霸",","Kingsoft","]
+"kvdetech.exe":"已知杀软进程,名称暂未收录",
+"KVFW.exe":"Jiangmin",
+"KVHistory.exe":"江民杀毒",
+"KVInfoBarUI.exe":"江民杀毒",
+"KvMonXP.exe":["江民杀毒",","江民杀毒",","Jiangmin",","Jiangmin Antivirus","]
+"KVMonXP_2.exe":"已知杀软进程,名称暂未收录",
+"kvolself.exe":"已知杀软进程,名称暂未收录",
+"KvPad.exe":"江民杀毒",
+"KVPreScan.exe":"江民杀毒",
+"KVsrvXP.exe":"Jiangmin",
+"kvsrvxp_1.exe":"已知杀软进程,名称暂未收录",
+"KVwsc.exe":"Jiangmin",
+"KvXP.exe":"已知杀软进程,名称暂未收录",
+"KWatch.exe":["金山毒霸",","金山毒霸",","Kingsoft",","Kingsoft Internet Security","]
+"KWSProd.exe":"已知杀软进程,名称暂未收录",
+"kwsprotect64.exe":["金山毒霸",","Kingsoft","]
+"kxescore.exe":["金山毒霸",","Kingsoft","]
+"kxeserv.exe":"已知杀软进程,名称暂未收录",
+"kxetray.exe":["金山毒霸",","Kingsoft",","安天智甲",","Antiy-AVL",","Kingsoft Internet Security","]
+"launcher.exe":["Intercort Systems",","intercort systems","]
+"LavasoftTcpService.exe":"Lavasoft",
+"lc_sensor.exe":"Limacharlie Agent",
+"ldnetmon.exe":"疑似杀软进程",
+"ldnews.exe":"LDPlayer - 适用于 PC 的轻量级快速 Android 模拟器",
+"ldpro.exe":"Known anti-software process, the name is not included yet",
+"ldpromenu.exe":"疑似杀软进程",
+"ldscan.exe":["Windows Trojans Inspector",","windows trojans inspector","]
+"LenovoPcManager.exe":"联想电脑管家",
+"LenovoTray.exe":"联想电脑管家防护中心",
+"leventmgr.exe":"已知杀软进程,名称暂未收录",
+"lghub_updater.exe":"罗技鼠标软件",
+"livesrv.exe":"已知杀软进程,名称暂未收录",
+"liveupdate360.exe":["360更新程序",","360杀毒",","Qihoo-360",","360更新程序","]
+"LiveUpdateSD.exe":"MaxSecure",
+"lmon.exe":"已知杀软进程,名称暂未收录",
+"lnetinfo.exe":"疑似杀软进程",
+"loader.exe":"疑似杀软进程",
+"localnet.exe":"Known anti-software process, the name is not included yet",
+"LockApp.exe":"已知杀软进程,名称暂未收录",
+"LockAppHost.exe":"已知杀软进程,名称暂未收录",
+"lockdown.exe":"疑似杀软进程",
+"lockdown2000.exe":"疑似杀软进程",
+"log_qtine.exe":"已知杀软进程,名称暂未收录",
+"LogGetor.exe":"已知杀软进程,名称暂未收录",
+"LogiOptions.exe":"LogiOptions",
+"LogonISReg.dll.exe":"Carbon Black",
+"lookout.exe":"疑似杀软进程",
+"lordpe.exe":"疑似杀软进程",
+"lsetup.exe":"Symantec",
+"Lsf.exe":"联想电脑管家",
+"luall.exe":["Symantec",","symantec","]
+"luau.exe":["Symantec",","symantec","]
+"lucallbackproxy.exe":"已知杀软进程,名称暂未收录",
+"lucoms.exe":"已知杀软进程,名称暂未收录",
+"lucomserver.exe":["Norton",","norton",","Symantec","]
+"lucoms~1.exe":"已知杀软进程,名称暂未收录",
+"luinit.exe":"疑似杀软进程",
+"luspt.exe":"疑似杀软进程",
+"LWDMServer.exe":"已知杀软进程,名称暂未收录",
+"macmnsvc.exe":"McAfee",
+"macompatsvc.exe":"McAfee",
+"makereport.exe":"已知杀软进程,名称暂未收录",
+"mamutu.exe":"疑似杀软进程",
+"ManagementAgentNT.exe":"已知杀软进程,名称暂未收录",
+"mantispm.exe":"已知杀软进程,名称暂未收录",
+"mapisvc32.exe":"疑似杀软进程",
+"MarSetup.exe":"McAfee",
+"masalert.exe":"已知杀软进程,名称暂未收录",
+"massrv.exe":"已知杀软进程,名称暂未收录",
+"masvc.exe":"McAfee",
+"MaxAVPlusDM.exe":"MaxSecure",
+"MaxRCSystemTray.exe":["Max Secure Software",","MaxSecure","]
+"mbae-loader.exe ":"Malware Bytes",
+"mbae-setup.exe":"Malware Bytes",
+"mbae-svc.exe":"Malware Bytes",
+"mbae-uninstaller.exe":"Malware Bytes",
+"mbae.exe":"Malware Bytes",
+"mbae64.exe":"Malware Bytes",
+"mbaeLoader32.exe":"Malware Bytes",
+"mbaeloader64.exe":"Malware Bytes",
+"mbam-dor.exe":"Malware Bytes",
+"mbam.exe":["malwarebytes杀毒",","ClemWin Free Antivirus",","Malwarebytes Anti-Malware",","Malwarebytes",","Malwarebytes杀毒","]
+"mbamgui.exe":"Malware Bytes",
+"MBAMHelper.exe":"Malware Bytes",
+"mbampt.exe":"Malware Bytes",
+"mbamscheduler.exe":"Malware Bytes",
+"mbamservice.exe":["malwarebytes杀毒",","ClemWin Free Antivirus",","Malwarebytes Anti-Malware",","Malwarebytes",","Malwarebytes杀毒",","Malware Bytes","]
+"mbamtray.exe":["malwarebytes杀毒",","Malwarebytes",","Malwarebytes Anti-Malware",","Malwarebytes杀毒","]
+"mbamtrayctrl.exe":"Malware Bytes",
+"mbar-1.08.2.1001.exe ":"Malware Bytes",
+"McAfeeDataBackup.exe":"已知杀软进程,名称暂未收录",
+"mcafeefire.exe":["McAfee",","mcafee","]
+"mcagent.exe":["McAfee",","McAfee",","mcafee","]
+"mcamnsvc.exe ":"McAfee",
+"mcamnsvc.exe":"McAfee",
+"McAPExe.exe":"McAfee",
+"mcappins.exe":"已知杀软进程,名称暂未收录",
+"McChHost.exe":"McAfee",
+"mcconsol.exe":"已知杀软进程,名称暂未收录",
+"mcdash.exe":"已知杀软进程,名称暂未收录",
+"mcdetect.exe":"已知杀软进程,名称暂未收录",
+"McEPOC.exe":"已知杀软进程,名称暂未收录",
+"McEPOCfg.exe":"已知杀软进程,名称暂未收录",
+"mcinfo.exe":"已知杀软进程,名称暂未收录",
+"mcmnhdlr.exe":["McAfee",","McAfee",","mcafee","]
+"mcmscsvc.exe":"已知杀软进程,名称暂未收录",
+"McNASvc.exe":"已知杀软进程,名称暂未收录",
+"mcods.exe":"已知杀软进程,名称暂未收录",
+"mcpalmcfg.exe":"已知杀软进程,名称暂未收录",
+"mcpromgr.exe":"已知杀软进程,名称暂未收录",
+"McProxy.exe":"已知杀软进程,名称暂未收录",
+"McpService.exe":"McAfee",
+"McPvTray.exe":"McAfee",
+"MCREGWIZ.exe":["McAfee",","mcafee","]
+"McsAgent.exe":"Sophos MCS Agent",
+"McsClient.exe":"Sophos MCS Client",
+"mcscript.exe":["McAfee",","mcafee","]
+"mcscript_inuse.exe":["McAfee",","mcafee","]
+"McsHeartbeat.exe":"Sophos",
+"mcshell.exe":"已知杀软进程,名称暂未收录",
+"Mcshield.exe":["McAfee",","McAfee",","mcafee(麦咖啡)",","Mcafee",","麦咖啡",","McAfee（麦咖啡）","]
+"mcshld9x.exe":"已知杀软进程,名称暂未收录",
+"mcsysmon.exe":"已知杀软进程,名称暂未收录",
+"mctary.exe":"McAfee",
+"mctool.exe":["McAfee",","mcafee","]
+"mctray.exe":["McAfee",","mcafee(麦咖啡)",","Mcafee",","McAfee（麦咖啡）","]
+"mctskshd.exe":"已知杀软进程,名称暂未收录",
+"MCUI32.exe":"已知杀软进程,名称暂未收录",
+"mcuicnt.exe":"McAfee",
+"mcuihost.exe":"McAfee",
+"mcuimgr.exe":"已知杀软进程,名称暂未收录",
+"mcupdate.exe":["McAfee",","McAfee",","mcafee","]
+"mcupdmgr.exe":"已知杀软进程,名称暂未收录",
+"mcvsftsn.exe":"已知杀软进程,名称暂未收录",
+"mcvsrte.exe":["McAfee",","mcafee","]
+"mcvsshld.exe":["McAfee",","McAfee",","mcafee","]
+"McWCE.exe":"已知杀软进程,名称暂未收录",
+"McWCECfg.exe":"已知杀软进程,名称暂未收录",
+"md.exe":"疑似杀软进程",
+"memscan64.exe":"eGambit",
+"mfeann.exe":["McAfee",","mcafee(麦咖啡)",","Mcafee",","McAfee（麦咖啡）","]
+"mfecanary.exe":"McAfee",
+"mfeconsole.exe":"McAfee",
+"MfeEpeSvc.exe":"McAfee",
+"mfeesp.exe":"McAfee",
+"mfeffcoreservice.exe":"McAfee",
+"mfefire.exe":"McAfee",
+"mfefw.exe":"McAfee",
+"mfehidin.exe":"McAfee",
+"mfemms.exe":"McAfee",
+"mfeProvisionModeUtility.exe":"McAfee",
+"MfeServiceMgr.exe":"McAfee",
+"mfetp.exe":"McAfee",
+"mfevtps.exe":["McAfee",","mcafee(麦咖啡)",","Mcafee",","McAfee（麦咖啡）","]
+"mfewc.exe":"McAfee",
+"mfewch.exe":"McAfee",
+"mfewcui.exe":"McAfee",
+"mfin32.exe":["MyFreeInternetUpdate",","myfreeinternetupdate","]
+"mfw2en.exe":["MyFreeInternetUpdate",","myfreeinternetupdate","]
+"mfweng3.02d30.exe":["MyFreeInternetUpdate",","myfreeinternetupdate","]
+"mgavrtcl.exe":["McAfee",","mcafee","]
+"mgavrte.exe":["McAfee",","mcafee","]
+"mghtml.exe":["McAfee",","mcafee","]
+"MgntSvc.exe":"已知杀软进程,名称暂未收录",
+"mgui.exe":["BullGuard",","bullguard","]
+"miner.exe":["流量矿石",","流量矿石","]
+"Mini Mouse.exe":"Mini Mouse(有LFI和RCE)",
+"minilog.exe":["Zone Labs Inc",","Zone Alarm",","zone alarm","]
+"minionhost.exe":"Cybereason",
+"minodlogin":"ESET Endpoint Security",
+"minodlogin.exe":"ESET Endpoint Security",
+"mmod.exe":["EzulaInc",","ezulainc","]
+"MongoosaGUI.exe":["Mongoosa杀毒",","mongoosa杀毒",","Mongoosa",","Mongoosa Antivirus","]
+"mongoose.exe":"Mongoosa",
+"monitor.exe":"疑似杀软进程",
+"monsvcnt.exe":"已知杀软进程,名称暂未收录",
+"monsysnt.exe":"已知杀软进程,名称暂未收录",
+"moolive.exe":"疑似杀软进程",
+"mostat.exe":["WurldMediaInc",","wurldmediainc","]
+"mpcmdrun.exe":["windows defender",","windows defender",","Windows Defender Antivirus",","Microsoft security essentials",","Windows Defender",","Microsoft defender","]
+"mpf.exe":"已知杀软进程,名称暂未收录",
+"mpfagent.exe":["McAfee",","mcafee","]
+"mpfconsole.exe":"已知杀软进程,名称暂未收录",
+"mpfservice.exe":["McAfee",","mcafee","]
+"MpfSrv.exe":"已知杀软进程,名称暂未收录",
+"mpftray.exe":["McAfee",","mcafee","]
+"MPMon.exe":["微点主动防御",","微点主动防御",","micropoint",","Micropoint Active Defense","]
+"mps.exe":"已知杀软进程,名称暂未收录",
+"mpsevh.exe":"已知杀软进程,名称暂未收录",
+"mpsvc.exe":"已知杀软进程,名称暂未收录",
+"mrf.exe":"已知杀软进程,名称暂未收录",
+"mrflux.exe":"疑似杀软进程",
+"msapp.exe":"疑似杀软进程",
+"msascui.exe":["windows defender",","windows defender",","Windows Defender Antivirus",","Microsoft security essentials",","Windows Defender",","Microsoft defender","]
+"msascuil.exe":["windows defender",","windows defender",","Microsoft security essentials",","Windows Defender",","Microsoft defender","]
+"msbb.exe":"疑似杀软进程",
+"msblast.exe":"疑似杀软进程",
+"mscache.exe":["Integrated Search Technologies Spyware",","integrated search technologies spyware","]
+"msccn32.exe":"疑似杀软进程",
+"mscifapp.exe":"已知杀软进程,名称暂未收录",
+"mscman.exe":["OdysseusMarketingInc",","odysseusmarketinginc","]
+"msconfig.exe":"疑似杀软进程",
+"msdm.exe":"疑似杀软进程",
+"msdos.exe":"疑似杀软进程",
+"MsDtsSrvr.exe":"MicrosoftSQLServer",
+"msiexec16.exe":"疑似杀软进程",
+"msinfo32.exe":"疑似杀软进程",
+"mskagent.exe":"已知杀软进程,名称暂未收录",
+"mskdetct.exe":"已知杀软进程,名称暂未收录",
+"msksrver.exe":"已知杀软进程,名称暂未收录",
+"msksrvr.exe":"已知杀软进程,名称暂未收录",
+"mslaugh.exe":"疑似杀软进程",
+"msmgt.exe":["Total Velocity Spyware",","total velocity spyware","]
+"MsMpEng.exe":["Windows Defender",","Windows Defender",","windows defender",","Microsoft Security Essentials",","Microsoft security essentials",","Microsoft defender","]
+"msmsgri32.exe":"疑似杀软进程",
+"MSPCManager.exe":["微软电脑管家",","微软电脑管家-公测版","]
+"mss_deployer.exe":"Sangfor EDR",
+"msscli.exe":"已知杀软进程,名称暂未收录",
+"msseces.exe":["windows defender",","Microsoft Security Essentials",","Windows Defender","]
+"mssecess.exe":["微软杀毒",","Microsoft security essentials",","Microsoft defender",","Microsoft Antivirus","]
+"mssense.exe":["windows defender",","windows defender",","Microsoft Security Essentials",","Microsoft security essentials",","Windows Defender",","Microsoft defender","]
+"mssmmc32.exe":"疑似杀软进程",
+"msssrv.exe":"已知杀软进程,名称暂未收录",
+"mssys.exe":"疑似杀软进程",
+"msvxd.exe":["W32/Datom-A",","w32/datom-a","]
+"mu0311ad.exe":"疑似杀软进程",
+"mwaser.exe":"eScan",
+"mwatch.exe":"Known anti-software process, the name is not included yet",
+"MYAGTSVC.exe":["McAfee",","mcafee","]
+"MYAGTTRY.exe":["McAfee",","mcafee","]
+"n32scanw.exe":"疑似杀软进程",
+"N360Downloader.exe":"Symantec Endpoint Security",
+"NAIlgpip.exe":"已知杀软进程,名称暂未收录",
+"nanoav.exe":"NANO-Antivirus",
+"nanoav64.exe":"NANO-Antivirus",
+"nanoreport.exe":"NANO-Antivirus",
+"nanoreportc.exe":"NANO-Antivirus",
+"nanoreportc64.exe":"NANO-Antivirus",
+"nanorst.exe":"NANO-Antivirus",
+"nanosvc.exe":"NANO-Antivirus",
+"naprdmgr.exe":["McAfee",","mcafee(麦咖啡)",","Mcafee",","McAfee（麦咖啡）","]
+"nav.exe":["Reuters Limited",","reuters limited",","Norton","]
+"navap.exe":"已知杀软进程,名称暂未收录",
+"navap.navapsvc.exe":"疑似杀软进程",
+"navapsvc.exe":["Norton AntiVirus",","Norton",","norton antivirus",","Norton","]
+"navapw32.exe":["Norton AntiVirus",","Norton",","norton antivirus",","Norton","]
+"navdx.exe":"疑似杀软进程",
+"NaveCtrl.exe":"已知杀软进程,名称暂未收录",
+"NaveLog.exe":"已知杀软进程,名称暂未收录",
+"NaveSP.exe":"已知杀软进程,名称暂未收录",
+"NAVLU32.exe":["Norton",","norton","]
+"navnt.exe":"疑似杀软进程",
+"NavShcom.exe":"已知杀软进程,名称暂未收录",
+"navstub.exe":"疑似杀软进程",
+"navw32.exe":["Norton Antivirus",","Norton Antivirus",","norton antivirus","]
+"navwnt.exe":"疑似杀软进程",
+"nc2000.exe":"疑似杀软进程",
+"NCDaemon.exe":"已知杀软进程,名称暂未收录",
+"ncinst4.exe":"疑似杀软进程",
+"ndd32.exe":["诺顿磁盘医生",","Norton Disk Doctor","]
+"ndetect.exe":"已知杀软进程,名称暂未收录",
+"neomonitor.exe":"疑似杀软进程",
+"neotrace.exe":"已知杀软进程,名称暂未收录",
+"NEOWATCHLOG.exe":["NeoWatch",","neowatch",","Known anti-software process, the name is not included yet","]
+"NEOWATCHTRAY.exe":["NeoWatch",","neowatch","]
+"netalertclient.exe":"已知杀软进程,名称暂未收录",
+"netarmor.exe":"疑似杀软进程",
+"netcfg.exe":"已知杀软进程,名称暂未收录",
+"netd32.exe":"疑似杀软进程",
+"netinfo.exe":"疑似杀软进程",
+"netmon.exe":"疑似杀软进程",
+"netscanpro.exe":"疑似杀软进程",
+"netspyhunter-1.2.exe":"疑似杀软进程",
+"netstat.exe":"疑似杀软进程",
+"netutils.exe":"Known anti-software process, the name is not included yet",
+"networx.exe":"已知杀软进程,名称暂未收录",
+"ngctw32.exe":"已知杀软进程,名称暂未收录",
+"ngserver.exe":"已知杀软进程,名称暂未收录",
+"NIP.exe":"已知杀软进程,名称暂未收录",
+"nipsvc.exe":"已知杀软进程,名称暂未收录",
+"nisoptui.exe":"已知杀软进程,名称暂未收录",
+"nisserv.exe":["Norton",","Norton",","norton","]
+"NisSrv.exe":["Windows Defender",","windows defender",","windows defender",","Microsoft Security Essentials",","Microsoft security essentials",","Microsoft defender","]
+"nisum.exe":["Norton",","Norton",","norton","]
+"NJeeves.exe":"已知杀软进程,名称暂未收录",
+"NLClient.exe":"已知杀软进程,名称暂未收录",
+"nlsvc.exe":"已知杀软进程,名称暂未收录",
+"NMAGENT.exe":"已知杀软进程,名称暂未收录",
+"nmain.exe":["Norton",","Norton",","norton","]
+"nod32.exe":["ESET Smart Security",","ESET NOD32",","eset nod32","]
+"nod32krn.exe":"已知杀软进程,名称暂未收录",
+"nod32kui.exe":"已知杀软进程,名称暂未收录",
+"NOD32view.exe":"已知杀软进程,名称暂未收录",
+"normist.exe":"疑似杀软进程",
+"norton_internet_secu_3.0_407.exe":"Known anti-software process, the name is not included yet",
+"Notifier.exe":["亚信DS客户端 - 深度安全通知程序的进程",","亚信安全服务器深度安全防护系统","]
+"notstart.exe":"Known anti-software process, the name is not included yet",
+"npavtray.exe":"疑似杀软进程",
+"npf40_tw_98_nt_me_2k.exe":"疑似杀软进程",
+"npfmessenger.exe":"疑似杀软进程",
+"NPFMntor.exe":["Norton杀毒软件",","norton杀毒软件",","Norton杀毒软件相关进程",","norton杀毒软件相关进程",","Norton",","Norton Antivirus Software","]
+"NPFMSG.exe":["Norman个人防火墙",","norman个人防火墙",","Norman Personal Firewall","]
+"Npfmsg2.exe":"已知杀软进程,名称暂未收录",
+"Npfsvice.exe":"已知杀软进程,名称暂未收录",
+"Npkcmsvc.exe":"nProtect",
+"npnj5Agent.exe":"nProtect",
+"nprotect.exe":["Symantec",","Symantec",","symantec",","Norton","]
+"npscheck.exe":["Norton",","norton","]
+"npssvc.exe":["Norton",","norton","]
+"npwebroot.exe":"Webroot",
+"NRMENCTB.exe":"已知杀软进程,名称暂未收录",
+"ns.exe":["norton诺顿杀毒",","Norton诺顿杀毒","]
+"nsched32.exe":"疑似杀软进程",
+"nscsrvce.exe":"已知杀软进程,名称暂未收录",
+"NscTop.exe":"已知杀软进程,名称暂未收录",
+"nSMDemf.exe":"已知杀软进程,名称暂未收录",
+"nSMDmon.exe":"已知杀软进程,名称暂未收录",
+"nSMDreal.exe":"已知杀软进程,名称暂未收录",
+"nSMDsch.exe":"已知杀软进程,名称暂未收录",
+"NSMDTR.exe":["Norton",","norton","]
+"nspupsvc.exe":["nProtect杀毒",","nprotect杀毒",","nProtect",","nProtect Antivirus","]
+"nssserv.exe":"疑似杀软进程",
+"nsstray.exe":"疑似杀软进程",
+"nssys32.exe":"疑似杀软进程",
+"nstask32.exe":"疑似杀软进程",
+"nsupdate.exe":"疑似杀软进程",
+"nt.exe":"疑似杀软进程",
+"ntcaagent.exe":"已知杀软进程,名称暂未收录",
+"ntcadaemon.exe":"已知杀软进程,名称暂未收录",
+"ntcaservice.exe":"已知杀软进程,名称暂未收录",
+"ntos.exe":"疑似杀软进程",
+"ntrtscan.exe":["趋势反病毒应用程序",","趋势科技",","趋势反病毒应用程序",","pc-cillin趋势反病毒",","趋势杀毒",","趋势科技",","TrendMicro",","PC-cillin趋势反病毒",","Trend Anti-Virus Application",","Trend Micro",","Trend Micro Deep Security","]
+"ntvdm.exe":"疑似杀软进程",
+"ntxconfig.exe":"疑似杀软进程",
+"nui.exe":"Known anti-software process, the name is not included yet",
+"nupgrade.exe":"疑似杀软进程",
+"NutstoreClient.exe":"坚果云",
+"NutstoreDriverSvc.exe":"坚果云",
+"NutstoreWatchDog.exe":"坚果云",
+"nvarch16.exe":"疑似杀软进程",
+"nvc95.exe":"疑似杀软进程",
+"NVCOAS.exe":"已知杀软进程,名称暂未收录",
+"nvcod.exe":"疑似杀软进程",
+"NVCSched.exe":"已知杀软进程,名称暂未收录",
+"nvcte.exe":"疑似杀软进程",
+"nvcut.exe":"疑似杀软进程",
+"nvsvc32.exe":"疑似杀软进程",
+"nwinst4.exe":"疑似杀软进程",
+"nwservice.exe":"疑似杀软进程",
+"nwtool16.exe":"疑似杀软进程",
+"Nymse.exe":"已知杀软进程,名称暂未收录",
+"oasclnt.exe":"已知杀软进程,名称暂未收录",
+"oespamtest.exe":"已知杀软进程,名称暂未收录",
+"ofcdog.exe":"已知杀软进程,名称暂未收录",
+"OFCPFWSVC.exe":["OfficeScanNT",","officescannt","]
+"okclient.exe":"已知杀软进程,名称暂未收录",
+"OLFSNT40.exe":"已知杀软进程,名称暂未收录",
+"ollydbg.exe":"疑似杀软进程",
+"OmniAgent.exe":"已知杀软进程,名称暂未收录",
+"OMSLogManager.exe":"已知杀软进程,名称暂未收录",
+"OneDrive.exe":"Microsoft OneDrive",
+"onlinent.exe":["CAT-QuickHeal",","Known kill soft process, name is not included yet","]
+"ONLNSVC.exe":"已知杀软进程,名称暂未收录",
+"onsrvr.exe":"疑似杀软进程",
+"OP_MON.exe":["OutpostFirewall",","OutpostFirewall",","outpostfirewall","]
+"op_viewer.exe":"已知杀软进程,名称暂未收录",
+"OpenArk64.exe":"OpenArk",
+"OpenVPNConnect.exe":"openvpn",
+"opscan.exe":"已知杀软进程,名称暂未收录",
+"opssvc.exe":"疑似杀软进程",
+"optimize.exe":"疑似杀软进程",
+"OsMonitor.dll.exe":"Carbon Black",
+"ostronet.exe":"疑似杀软进程",
+"otfix.exe":"Known anti-software process, the name is not included yet",
+"outpost.exe":["Outpost Firewall",","outpost防火墙",","Agnitum outpost",","Outpost防火墙","]
+"outpostinstall.exe":["Outpost",","outpost","]
+"outpostproinstall.exe":"疑似杀软进程",
+"ovpnhelper_service.exe":"openvpn",
+"p95tray.exe":"Carbon Black",
+"paamsrv.exe":"已知杀软进程,名称暂未收录",
+"PadFSvr.exe":"已知杀软进程,名称暂未收录",
+"padmin.exe":"疑似杀软进程",
+"Pagent.exe":"已知杀软进程,名称暂未收录",
+"Pagentwd.exe":"已知杀软进程,名称暂未收录",
+"PanInstaller.exe":"Palo Alto Networks",
+"panixk.exe":"疑似杀软进程",
+"parmor.exe":["木马克星",","Trojan Marker","]
+"PASystemTray.exe":"已知杀软进程,名称暂未收录",
+"patch.exe":["趋势科技",","Trend Micro","]
+"patray.exe":["安博士",","ahnlab安博士杀毒",","AhnLab-V3",","Ahnlab安博士杀毒","]
+"PavBckPT.exe":"已知杀软进程,名称暂未收录",
+"pavcl.exe":"疑似杀软进程",
+"PAVFIRES.exe":["熊猫卫士",","熊猫卫士",","Panda Guardian","]
+"PAVFNSVR.exe":["熊猫卫士",","熊猫卫士",","Panda Guardian","]
+"pavjobs.exe":"已知杀软进程,名称暂未收录",
+"PAVKRE.exe":["熊猫卫士",","熊猫卫士",","Panda Guardian","]
+"pavmail.exe":"已知杀软进程,名称暂未收录",
+"PAVPROT.exe":["熊猫卫士",","熊猫卫士",","Panda Guardian","]
+"PAVPROXY.exe":["熊猫卫士",","熊猫卫士",","Panda Security",","Panda Guardian","]
+"PAVPRSRV.exe":["熊猫卫士",","熊猫卫士",","Panda Guardian","]
+"PavReport.exe":"已知杀软进程,名称暂未收录",
+"pavsched.exe":"Panda Security",
+"pavsrv50.exe":"已知杀软进程,名称暂未收录",
+"PAVSRV51.exe":["熊猫卫士",","熊猫卫士",","Panda Guardian","]
+"pavsrv52.exe":"已知杀软进程,名称暂未收录",
+"PAVSS.exe":["熊猫卫士",","熊猫卫士",","Panda Guardian","]
+"pavupg.exe":"已知杀软进程,名称暂未收录",
+"pavw.exe":"Known anti-software process, the name is not included yet",
+"pc.exe":["云锁客户端",","云锁客户端","]
+"pccclient.exe":"已知杀软进程,名称暂未收录",
+"PCCGUIDE.exe":["PC-cillin",","pc-cillin","]
+"PCCIOMON.exe":["PC-cillin",","pc-cillin","]
+"pcclient.exe":"已知杀软进程,名称暂未收录",
+"pccNT.exe":"已知杀软进程,名称暂未收录",
+"PCCNTMON.exe":["PC-cillin",","趋势 PC-cillin 反病毒套装",","pc-cillin",","TrendMicro",","Trend Micro Deep Security","]
+"PccNTUpd.exe":"已知杀软进程,名称暂未收录",
+"PCCPFW.exe":["趋势科技",","趋势科技",","Trend Micro",","Trend Micro Deep Security","]
+"PCCTLCOM.exe":["趋势科技",","趋势科技",","Trend Micro",","Trend Micro Deep Security","]
+"pccwin98.exe":"疑似杀软进程",
+"pcfwallicon.exe":"疑似杀软进程",
+"pcip10117_0.exe":"疑似杀软进程",
+"pcscan.exe":["趋势科技",","Trend Micro","]
+"PcScnSrv.exe":"已知杀软进程,名称暂未收录",
+"PCTAV.exe":["PC Tools AntiVirus",","pc tools antivirus","]
+"pctsAuxs.exe":"已知杀软进程,名称暂未收录",
+"pctsGui.exe":"PC Tools AntiVirus",
+"pctsSvc.exe":"已知杀软进程,名称暂未收录",
+"pctsTray.exe":"已知杀软进程,名称暂未收录",
+"pdiface.exe":"BitDefender Module",
+"pdscan.exe":"BitDefender Module",
+"pdsetup.exe":"Known anti-software process, the name is not included yet",
+"pep.exe":"已知杀软进程,名称暂未收录",
+"periscope.exe":"疑似杀软进程",
+"persfw.exe":["Tiny Personal Firewall",","Tiny Personal Firewall",","tiny personal firewall",","Kerio Personal Firewall","]
+"perswf.exe":"疑似杀软进程",
+"pertsk.exe":"疑似杀软进程",
+"PERVAC.exe":"Known anti-software process, the name is not included yet",
+"PESTPATROL.exe":["Ikarus",","ikarus","]
+"pf2.exe":"疑似杀软进程",
+"pfw.exe":["天网防火墙",","Skynet Firewall","]
+"pfwadmin.exe":"疑似杀软进程",
+"pgmonitr.exe":["PromulGate SpyWare",","promulgate spyware","]
+"pingscan.exe":"Known anti-software process, the name is not included yet",
+"platin.exe":"Known anti-software process, the name is not included yet",
+"pmon.exe":"已知杀软进程,名称暂未收录",
+"pnmsrv.exe":"疑似杀软进程",
+"pntiomon.exe":"已知杀软进程,名称暂未收录",
+"pop3pack.exe":"已知杀软进程,名称暂未收录",
+"pop3trap.exe":["PC-cillin",","pc-cillin",","TrendMicro","]
+"poproxy.exe":["NortonAntiVirus",","nortonantivirus","]
+"popscan.exe":"Known anti-software process, the name is not included yet",
+"portdetective.exe":"疑似杀软进程",
+"portmonitor.exe":"疑似杀软进程",
+"powerscan.exe":["Integrated Search Technologies",","integrated search technologies","]
+"powershell.exe":"Windows PowerShell",
+"PPClean.exe":"已知杀软进程,名称暂未收录",
+"PPCtlPriv.exe":"已知杀软进程,名称暂未收录",
+"ppinupdt.exe":"Known anti-software process, the name is not included yet",
+"ppmcativedetection.exe":"已知杀软进程,名称暂未收录",
+"PpPpWallRun.exe":"已知杀软进程,名称暂未收录",
+"pptbc.exe":"Known anti-software process, the name is not included yet",
+"ppvstop.exe":"Known anti-software process, the name is not included yet",
+"PQIBrowser.exe":"已知杀软进程,名称暂未收录",
+"pqv2isvc.exe":"已知杀软进程,名称暂未收录",
+"Prd.ManagementConsole.exe":"TotalDefense",
+"PREVSRV.exe":["熊猫卫士",","熊猫卫士",","Panda Guardian","]
+"prevx.exe":"疑似杀软进程",
+"PrintDevice.exe":"已知杀软进程,名称暂未收录",
+"prizesurfer.exe":["Prizesurfer",","prizesurfer","]
+"prmt.exe":["OpiStat",","opistat","]
+"prmvr.exe":["Adtomi",","adtomi","]
+"procdump.exe":"疑似杀软进程",
+"ProcessMonitor.dll.exe":"Carbon Black",
+"processmonitor.exe":["Sysinternals",","sysinternals","]
+"procexplorerv1.0.exe":"疑似杀软进程",
+"programauditor.exe":"疑似杀软进程",
+"proport.exe":"Known anti-software process, the name is not included yet",
+"protectx.exe":["ProtectX",","protectx","]
+"ProUtil.exe":"已知杀软进程,名称暂未收录",
+"proxystub.dll.exe":"Carbon Black",
+"PSafeCategoryFinder.exe":"PSafe",
+"psafesvc.exe":"PSafe",
+"PSafeSysTray.exe":["PSafe杀毒",","psafe杀毒",","psafe反病毒",","PSafe",","PSafe反病毒",","PSafe Antivirus","]
+"psctris.exe":"已知杀软进程,名称暂未收录",
+"PsCtrlS.exe":"已知杀软进程,名称暂未收录",
+"psh_svc.exe":"已知杀软进程,名称暂未收录",
+"PSHost.exe":"已知杀软进程,名称暂未收录",
+"psimreal.exe":"已知杀软进程,名称暂未收录",
+"psimsvc.exe":"疑似杀软进程",
+"pskmssvc.exe":"已知杀软进程,名称暂未收录",
+"pspf.exe":"Known anti-software process, the name is not included yet",
+"purge.exe":"Known anti-software process, the name is not included yet",
+"pview.exe":"已知杀软进程,名称暂未收录",
+"pviewer.exe":"已知杀软进程,名称暂未收录",
+"PwdFiltHelp.exe":"已知杀软进程,名称暂未收录",
+"pwmConsole.exe":"Trend Micro Deep Security",
+"PwmSvc.exe":"Trend Micro Deep Security",
+"PXEMTFTP.exe":"已知杀软进程,名称暂未收录",
+"pxeservice.exe":"已知杀软进程,名称暂未收录",
+"PylumLoader.exe":"已知杀软进程,名称暂未收录",
+"QAX.exe":"天擎EDRAgent",
+"QAXDownMgr.exe":"qax天擎",
+"QaxEngManager.exe":"天擎EDRAgent",
+"QaxEntClient.exe":["天擎EDR Agent",","天擎EDRAgent",","天擎EDRAgent",","qax天擎","]
+"QAXTray.exe":["天擎EDR Agent",","天擎EDRAgent","]
+"qclean.exe":"已知杀软进程,名称暂未收录",
+"qconsole.exe":["Norton AntiVirus Quarantine Console",","norton antivirus quarantine console","]
+"qdcsfs.exe":"已知杀软进程,名称暂未收录",
+"QHActiveDefense.exe":["360国际版",","360 Total Security (360国际版)",","360TotalSecurity(360国际版)",","Qihoo-360",","360 Total Security (360 International Version)","]
+"qhonline.exe":"疑似杀软进程",
+"qhonsvc.exe":"疑似杀软进程",
+"QHSafeMain.exe":["360 Total Security (360国际版)",","360TotalSecurity(360国际版)",","360 Total Security (360 International Version)","]
+"QHSafeTray.exe":["360 Total Security (360国际版)",","360TotalSecurity(360国际版)",","360 Total Security (360 International Version)","]
+"qhset.exe":"疑似杀软进程",
+"qhsrv.exe":["360主机卫士",","360主机卫士","]
+"QHWatchdog.exe":["360 Total Security (360国际版)",","360TotalSecurity(360国际版)",","360 Total Security (360 International Version)","]
+"qhwebshellguard.exe":["360主机卫士",","360主机卫士","]
+"qhwscsvc.exe":"疑似杀软进程",
+"QMDL.exe":"腾讯电脑管家",
+"QMDLP.exe":"腾讯电脑管家",
+"QMExtraPackageSetup.exe":"腾讯电脑管家",
+"QMInterfac.exe":"腾讯电脑管家",
+"QMLaunch.exe":"腾讯电脑管家",
+"QMLoginAssistant.exe":"腾讯电脑管家",
+"QMLspPing.exe":"腾讯电脑管家",
+"QMNetProxyClient.exe":"腾讯电脑管家",
+"QMNetProxyHost.exe":"腾讯电脑管家",
+"QMPersonalCenter.exe":"腾讯电脑管家",
+"QMProviderUpdate.exe":"腾讯电脑管家",
+"QMSignScan.exe":"腾讯电脑管家",
+"QMSmbAssistor.exe":"腾讯电脑管家",
+"QMStateCheck.exe":"腾讯电脑管家",
+"QMSuperScan.exe":"腾讯电脑管家",
+"QMUpload.exe":"腾讯电脑管家",
+"QMUsbGuard.exe":"腾讯电脑管家",
+"Qoeloader.exe":"已知杀软进程,名称暂未收录",
+"QQ.exe":"QQ",
+"QQPCMgr.exe":"Tencent",
+"qqpcnetflow.exe":["腾讯电脑管家",","QQ电脑管家",","腾讯电脑管家",","Tencent","]
+"qqpcrealtimespeedup.exe":["腾讯电脑管家",","QQ电脑管家",","腾讯电脑管家加速球",","腾讯电脑管家",","Tencent","]
+"QQPCRTP.exe":["腾讯电脑管家",","QQ电脑管家",","qq电脑管家",","腾讯电脑管家",","Tencent",","QQComputer Manager","]
+"QQPCTray.exe":["QQ电脑管家",","qq电脑管家",","腾讯电脑管家",","腾讯电脑管家",","Tencent",","QQComputer Manager","]
+"QQProtect.exe":["QQ安全防护进程（Q盾）",","QQ安全保护进程",","腾讯电脑管家","]
+"qserver.exe":["Norton Internet Security",","norton internet security","]
+"qualysagent.exe":"Qualys Cloud Agent EDR",
+"QualysAgentUI.exe":"Qualys Cloud Agent EDR",
+"QualysProxy.exe":"Qualys Cloud Agent EDR",
+"QUHLPSVC.exe":["QUICK HEAL杀毒",","quick heal杀毒",","quickheal杀毒",","CAT-QuickHeal",","QuickHeal杀毒",","QUICK HEAL antivirus","]
+"r_server.exe":"radmin",
+"RadeonSoftware.exe":"AMD驱动软件",
+"rapapp.exe":["BlackICE",","blackice",","IBM ISS Proventia","]
+"rapuisvc.exe":"已知杀软进程,名称暂未收录",
+"ras.exe":"已知杀软进程,名称暂未收录",
+"rasupd.exe":"已知杀软进程,名称暂未收录",
+"Rav.exe":"已知杀软进程,名称暂未收录",
+"rav7.exe":"疑似杀软进程",
+"rav7win.exe":"疑似杀软进程",
+"rav8win32eng.exe":"疑似杀软进程",
+"RavAlert.exe":"已知杀软进程,名称暂未收录",
+"ravmon.exe":["瑞星杀毒",","瑞星杀毒","]
+"RavMonD.exe":["瑞星杀毒",","瑞星杀毒",","Rising",","Rising Antivirus","]
+"RavService.exe":"已知杀软进程,名称暂未收录",
+"RavStub.exe":"已知杀软进程,名称暂未收录",
+"RavTask.exe":"已知杀软进程,名称暂未收录",
+"RavTray.exe":"已知杀软进程,名称暂未收录",
+"RavUpdate.exe":"已知杀软进程,名称暂未收录",
+"RAVXP.exe":"已知杀软进程,名称暂未收录",
+"ray.exe":"疑似杀软进程",
+"rb32.exe":["RapidBlaster",","rapidblaster","]
+"rcsvcmon.exe":"已知杀软进程,名称暂未收录",
+"rcsync.exe":["PrizeSurfer",","prizesurfer","]
+"RCSystemTray.exe":["Max Secure Software",","MaxSecure","]
+"realmon.exe":["Realmon",","Realmon ",","realmon","]
+"redcloak.exe":"已知杀软进程,名称暂未收录",
+"RedirSvc.exe":"已知杀软进程,名称暂未收录",
+"reged.exe":"疑似杀软进程",
+"regedit.exe":"疑似杀软进程",
+"regedt32.exe":"疑似杀软进程",
+"RegMech.exe":"已知杀软进程,名称暂未收录",
+"remupd.exe":["熊猫卫士",","熊猫卫士杀毒",","Panda Security",","Panda Guardian","]
+"ReporterSvc.exe":"已知杀软进程,名称暂未收录",
+"reportsteward.exe":"QAX终端安全管理系统-接入组件",
+"reportsvc.exe":"已知杀软进程,名称暂未收录",
+"rescue.exe":"Known anti-software process, the name is not included yet",
+"rescue32.exe":["卡巴斯基互联网安全套装",","Kaspersky Internet Security Suite","]
+"rfwmain.exe":["瑞星防火墙",","Rising",","Rising Firewall","]
+"rfwproxy.exe":"已知杀软进程,名称暂未收录",
+"rfwsrv.exe":"已知杀软进程,名称暂未收录",
+"rfwstub.exe":"已知杀软进程,名称暂未收录",
+"rnav.exe":"已知杀软进程,名称暂未收录",
+"RNReport.exe":"已知杀软进程,名称暂未收录",
+"RouterNT.exe":"已知杀软进程,名称暂未收录",
+"RPCServ.exe":"已知杀软进程,名称暂未收录",
+"rphcp.exe":"Limacharlie Agent",
+"rrguard.exe":"疑似杀软进程",
+"rshell.exe":"Known kill soft process, name is not included yet",
+"rslogup.exe":"瑞星杀毒",
+"rsmain.exe":"瑞星杀毒",
+"RsMgrSvc.exe":"Rising",
+"rsnetsvr.exe":"已知杀软进程,名称暂未收录",
+"RSSensor.exe":"已知杀软进程,名称暂未收录",
+"rstray.exe":"瑞星杀毒",
+"rstray64.exe":"瑞星杀毒",
+"rsupdatertool.exe":"瑞星杀毒",
+"rtvscan.exe":["诺顿杀毒",","symantec(赛门铁克) 或 norton(诺顿杀毒)",","Norton",","symantec(赛门铁克) 或 norton诺顿杀毒",","Symantec（赛门铁克）或 Norton（诺顿杀毒）",","Norton Antivirus","]
+"rtvscn95.exe":["Real-time virus scanner",","Real-time Virus Scanner",","Real-time virus scanner ",","real-time virus scanner","]
+"rulaunch.exe":["McAfee User Interface",","mcafee user interface","]
+"run32dll.exe":["PAL PC Spy",","pal pc spy","]
+"rundll.exe":"疑似杀软进程",
+"rundll16.exe":"疑似杀软进程",
+"ruxdll32.exe":"疑似杀软进程",
+"sabsvc.exe":"SUPERAntiSpyware",
+"SAdBlock.exe":"SUPERAntiSpyware",
+"safeboxTray.exe":["360杀毒",","360保险箱保护程序",","360保险箱保护程序",","360 Antivirus","]
+"Safedog Update Center.exe":"安全狗",
+"safedog.exe":["安全狗",","safedog",","Safedog","]
+"SafeDogCloudHelper.exe":"安全狗",
+"SafeDogGuardCenter.exe":["安全狗",","安全狗",","safedog",","safedog",","Safedog",","Safedog",","Safe Dog",","Safe Dog","]
+"SafeDogGuardHelper.exe":"安全狗",
+"SafeDogServerUI.exe":["安全狗",","服务器安全狗",","safedog",","服务器安全狗",","Safedog",","Safe Dog","]
+"safedogsiteapache.exe":["网站安全狗(apache)",","网站安全狗（Apache）","]
+"SafeDogSiteIIS.exe":["安全狗",","网站安全狗(iis)",","safedog",","网站安全狗（IIS）",","Safedog",","Safe Dog","]
+"SafeDogTray.exe":["安全狗",","安全狗",","safedog",","Safedog",","Safe Dog","]
+"safedogupdatecenter.exe":["安全狗",","safedog",","安全狗",","Safedog",","Safe Dog","]
+"SAFeService.exe":"已知杀软进程,名称暂未收录",
+"safeweb.exe":["PSafe Tecnologia",","psafe tecnologia","]
+"sahagent.exe":"已知杀软进程,名称暂未收录",
+"sahagent.exescan32.exe":"疑似杀软进程",
+"saHookMain.exe":"已知杀软进程,名称暂未收录",
+"SALITY.exe":"疑似杀软进程",
+"sangforPW.exe":"SangforVpn",
+"SangforServiceClient.exe":"SangforVpn(已连接上VPN)",
+"sapissvc.exe":"CAT-QuickHeal",
+"sargui.exe":"Sophos",
+"sascore.exe":"SUPERAntiSpyware",
+"SAService.exe":"已知杀软进程,名称暂未收录",
+"sav32cli.exe":"已知杀软进程,名称暂未收录",
+"SAVADMINSERVICE.exe":["SAV",","sav",","Sophos","]
+"SAVCleanupService.exe":"Sophos",
+"save.exe":"疑似杀软进程",
+"savenow.exe":"疑似杀软进程",
+"SAVFMSESp.exe":"已知杀软进程,名称暂未收录",
+"SAVMAIN.exe":["SAV",","sav",","Sophos杀毒",","Sophos杀毒",","sophos杀毒",","Sophos AV",","Sophos","]
+"SavProgress.exe":["Sophos杀毒",","Sophos杀毒",","sophos杀毒",","Sophos AV",","Sophos Antivirus",","Sophos","]
+"SavProxy.exe":"Sophos",
+"SavRoam.exe":"已知杀软进程,名称暂未收录",
+"SAVSCAN.exe":["SAV",","sav","]
+"SavService.exe":"Sophos",
+"SavUI.exe":"已知杀软进程,名称暂未收录",
+"SBAMSvc.exe":["VIPRE",","vipre",","vipre杀毒",","VIPRE杀毒","]
+"SBAMTray.exe":"VIPRE",
+"sbserv.exe":["Norton Antivirus",","norton antivirus",","Symantec","]
+"sc.exe":"疑似杀软进程",
+"scam32.exe":"疑似杀软进程",
+"scan32.exe":"McAfee",
+"scan95.exe":"疑似杀软进程",
+"scanexplicit.exe":"已知杀软进程,名称暂未收录",
+"scanfrm.exe":"已知杀软进程,名称暂未收录",
+"ScanMailOutLook.exe":"已知杀软进程,名称暂未收录",
+"SCANMSG.exe":"已知杀软进程,名称暂未收录",
+"scanningprocess.exe":"疑似杀软进程",
+"scanpm.exe":"疑似杀软进程",
+"scanwscs.exe":"CAT-QuickHeal",
+"SCFManager.exe":"Sophos",
+"SCFService.exe":"Sophos",
+"SCFTray.exe":"已知杀软进程,名称暂未收录",
+"schdsrvc.exe":"已知杀软进程,名称暂未收录",
+"sched.exe":["Avira(小红伞)",","avira(小红伞)",","Avira AntiVirus",","Avira（小红伞）","]
+"schupd.exe":"已知杀软进程,名称暂未收录",
+"ScriptRun.dll.exe":"Carbon Black",
+"scrscan.exe":["360杀毒",","360 Antivirus","]
+"SCTBootTasks.exe":"Sophos",
+"SCTCleanupService.exe":"Sophos",
+"SCUIAPI.dll.exe":"Carbon Black",
+"SCVMonitor.dll.exe":"Carbon Black",
+"scvprod_lang_pack.dll.exe":"Carbon Black",
+"sdcservice.exe":"Sophos Device Control Service",
+"SDHELP.exe":["Spyware Doctor",","spyware doctor","]
+"SDRA64.exe":"疑似杀软进程",
+"SDSystemTray.exe":["Max Secure Software",","MaxSecure","]
+"SDTrayApp.exe":"已知杀软进程,名称暂未收录",
+"SeAnalyzerTool.exe":"已知杀软进程,名称暂未收录",
+"secenter.exe":["bitdefender杀毒",","BitDefender杀毒","]
+"SecurityHealthService.exe":["Windows Defender",","windows defender",","windows defender",","Windows Defender Antivirus",","Microsoft security essentials",","Microsoft defender","]
+"SecurityHealthSystray.exe":"Windows Defender"},
+"SEDService.exe":"Sophos Endpoint Defense Service",
+"seestat.exe":"已知杀软进程,名称暂未收录",
+"SemSvc.exe":"已知杀软进程,名称暂未收录",
+"serv-u.exe":"server-u",
+"serv95.exe":"疑似杀软进程",
+"servudaemon.exe":["发现s-u",","发现S-U","]
+"SescLU.exe":"已知杀软进程,名称暂未收录",
+"setloadorder.exe":"已知杀软进程,名称暂未收录",
+"setup_flowprotector_us.exe":"疑似杀软进程",
+"SetupGUIMngr.exe":"已知杀软进程,名称暂未收录",
+"setupvameeval.exe":"疑似杀软进程",
+"SEVINST.exe":"已知杀软进程,名称暂未收录",
+"sfavsvc.exe":"Sangfor EDR",
+"sfavtray.exe":"Sangfor EDR",
+"sfc.exe":["System file checker",","system file checker","]
+"SfCtlCom.exe":"Trend Micro Deep Security",
+"sfupdatemgr.exe":"Sangfor EDR",
+"sgagent.exe":"腾讯云-安全监控组件",
+"sgssfw32.exe":"疑似杀软进程",
+"sh.exe":["MKS Toolkit for Win3",","mks toolkit for win3","]
+"ShadowsocksR-dotnet4.0.ex.exe":"SSR",
+"shellspyinstall.exe":"疑似杀软进程",
+"shieldtray.exe":"Shield Antivirus",
+"shn.exe":"疑似杀软进程",
+"showbehind.exe":["MicroSmarts Enterprise Component",","MicroSmarts Enterprise Component ",","microsmarts enterprise component","]
+"shstat.exe":["McAfee",","McAfee",","mcafee(麦咖啡)",","Mcafee",","McAfee（麦咖啡）","]
+"SiteAdv.exe":"已知杀软进程,名称暂未收录",
+"sitecli.exe":"疑似杀软进程",
+"skydasgosdk.exe":"奇安信集团天擎6Skydas-go-sdk组件",
+"skylarapi.exe":"360天擎API组件",
+"skylarcentral.exe":"360天擎6服务端组件",
+"skylarcron.exe":"360天擎6服务端组件",
+"skylards.exe":"360天擎数据服务组件",
+"skylarminide.exe":"360天擎6报表组件",
+"skytime.exe":"360天擎6",
+"smartscreen.exe":["Windows Defender",","windows defender smartscreen","]
+"smc.exe":["symantec(赛门铁克)",","赛门铁克",","Symantec",","Symantec（赛门铁克）","]
+"smcgui.exe":["symantec(赛门铁克)",","赛门铁克",","Norton",","Symantec（赛门铁克）","]
+"SMEX_ActiveUpdate.exe":"已知杀软进程,名称暂未收录",
+"SMEX_Master.exe":"已知杀软进程,名称暂未收录",
+"SMEX_RemoteConf.exe":"已知杀软进程,名称暂未收录",
+"SMEX_SystemWatch.exe":"已知杀软进程,名称暂未收录",
+"smOutlookPack.exe":"已知杀软进程,名称暂未收录",
+"sms.exe":"疑似杀软进程",
+"SMSECtrl.exe":"已知杀软进程,名称暂未收录",
+"SMSELog.exe":"已知杀软进程,名称暂未收录",
+"SMSESJM.exe":"已知杀软进程,名称暂未收录",
+"SMSESp.exe":"已知杀软进程,名称暂未收录",
+"SMSESrv.exe":"已知杀软进程,名称暂未收录",
+"SMSETask.exe":"已知杀软进程,名称暂未收录",
+"SMSEUI.exe":"已知杀软进程,名称暂未收录",
+"smss32.exe":"疑似杀软进程",
+"snac.exe":["symantec(赛门铁克)",","赛门铁克",","Symantec（赛门铁克）","]
+"SNDMon.exe":"已知杀软进程,名称暂未收录",
+"sndsrvc.exe":["symantec shared诺顿邮件防火墙软件",","Symantec Shared诺顿邮件防火墙软件","]
+"SnHwSrv.exe":"已知杀软进程,名称暂未收录",
+"SnICheckAdm.exe":"已知杀软进程,名称暂未收录",
+"SnicheckSrv.exe":"已知杀软进程,名称暂未收录",
+"SnIcon.exe":"已知杀软进程,名称暂未收录",
+"SnSrv.exe":"已知杀软进程,名称暂未收录",
+"sntpservice.exe":"Sophos",
+"soap.exe":["System Soap Pro",","system soap pro","]
+"sofi.exe":"Known anti-software process, the name is not included yet",
+"softManager.exe":"已知杀软进程,名称暂未收录",
+"Sophos Computer Security Scan.exe":"Sophos",
+"Sophos UI.exe":"Sophos杀毒",
+"Sophos Virus Removal Tool install.exe":"Sophos",
+"SophosAlert.exe":"Sophos",
+"SophosCleanM.exe":["Sophos杀毒",","sophos杀毒",","Sophos AV",","Sophos Antivirus","]
+"SophosCleanM64.exe":"Sophos Clean Service",
+"SophosFileScanner.exe":"Sophos杀毒",
+"SophosFIMService.exe":"Sophos FIM",
+"SophosFS.exe":["Sophos杀毒",","sophos杀毒",","Sophos File Scanner Service",","Sophos AV",","Sophos Antivirus","]
+"SophosHealth.exe":["Sophos杀毒",","sophos杀毒",","Sophos Health Service",","Sophos AV",","Sophos Antivirus","]
+"SophosNtpService.exe":"Sophos杀毒",
+"SophosOsquery.exe":"Sophos杀毒",
+"SophosSafestore64.exe":["Sophos杀毒",","sophos杀毒",","Sophos Safestore Service",","Sophos AV",","Sophos Antivirus","]
+"SophosUI.exe":["Sophos杀毒",","sophos杀毒",","Sophos AV",","Sophos Antivirus","]
+"SophosUpdate.exe":"Sophos",
+"SPBBCSVC.exe":["Symantec",","symantec",","symantec shared诺顿邮件防火墙软件",","Symantec Shared诺顿邮件防火墙软件","]
+"sperm.exe":"Known anti-software process, the name is not included yet",
+"spf.exe":"疑似杀软进程",
+"SPHINX.exe":["SPHINX防火墙",","sphinx防火墙",","SPHINX firewall",","SPHINX Firewall","]
+"SpIDerAgent.exe":"已知杀软进程,名称暂未收录",
+"SPIDERCPL.exe":["Dr.Web",","dr.web","]
+"SPIDERML.exe":["Dr.Web",","dr.web","]
+"spidernt.exe":["Dr.web",","dr.web杀毒",","DrWeb",","Dr.web杀毒","]
+"SPIDERUI.exe":["Dr.Web",","dr.web","]
+"SpntSvc.exe":"已知杀软进程,名称暂未收录",
+"spoler.exe":"疑似杀软进程",
+"spoolcv.exe":"疑似杀软进程",
+"spoolsv.exe":"打印机驱动程序",
+"spoolsv32.exe":"疑似杀软进程",
+"SPYBOTSD.exe":["Spybot",","Spybot ",","spybot","]
+"SpyEmergency.exe":"已知杀软进程,名称暂未收录",
+"SpyEmergencySrv.exe":"已知杀软进程,名称暂未收录",
+"spysweeperui.exe":"Webroot",
+"SpywareTerminator.exe":"Spyware Terminator",
+"SpywareTerminatorShield.exe":["SpywareTerminator反间谍软件",","spywareterminator反间谍软件",","SpywareTerminator杀毒",","spywareterminator杀毒",","Spyware Terminator",","SpywareTerminator Anti-Spyware","]
+"spyxx.exe":"疑似杀软进程",
+"srng.exe":"疑似杀软进程",
+"srvload.exe":"已知杀软进程,名称暂未收录",
+"srvmon.exe":"已知杀软进程,名称暂未收录",
+"ss3edit.exe":"疑似杀软进程",
+"sschk.exe":"已知杀软进程,名称暂未收录",
+"ssg_4104.exe":"疑似杀软进程",
+"ssgrate.exe":"疑似杀软进程",
+"ssm-agent-worker.exe":"亚马逊EC2实例SSM代理",
+"SSM.exe":"已知杀软进程,名称暂未收录",
+"SSPService.exe":"Sophos System Protection Service",
+"SSScheduler.exe":"已知杀软进程,名称暂未收录",
+"st2.exe":"疑似杀软进程",
+"start.exe":"疑似杀软进程",
+"stcloader.exe":"疑似杀软进程",
+"stinger.exe":"已知杀软进程,名称暂未收录",
+"StOPP.exe":"已知杀软进程,名称暂未收录",
+"stopsignav.exe":"疑似杀软进程",
+"StWatchDog.exe":"已知杀软进程,名称暂未收录",
+"SUMService.exe":"Sophos",
+"SunloginClient.exe":"向日葵客户端",
+"superantispyware.exe":"SUPERAntiSpyware",
+"supftrl.exe":"疑似杀软进程",
+"support.exe":"疑似杀软进程",
+"supporter5.exe":["eScorcher反病毒",","escorcher反病毒",","eScorcher Anti-Virus","]
+"svcGenericHost.exe":"已知杀软进程,名称暂未收录",
+"SVCharge.exe":"已知杀软进程,名称暂未收录",
+"svchostc.exe":"疑似杀软进程",
+"svchosts.exe":"疑似杀软进程",
+"svcntaux.exe":"已知杀软进程,名称暂未收录",
+"SVDealer.exe":"已知杀软进程,名称暂未收录",
+"SVFrame.exe":"已知杀软进程,名称暂未收录",
+"SVRTcli.exe":"Sophos",
+"SVRTgui.exe":"Sophos",
+"SVRTservice.exe":"Sophos",
+"SVTray.exe":"已知杀软进程,名称暂未收录",
+"SWAGENT.exe":["SonicWALL",","sonicwall","]
+"SWatcherSrv.exe":"TotalDefense",
+"swc_service.exe":["Sophos Web Control Service",","Sophos","]
+"SWDOCTOR.exe":["SonicWALL",","sonicwall","]
+"swdsvc.exe":"已知杀软进程,名称暂未收录",
+"sweep95.exe":"疑似杀软进程",
+"sweepnet.sweepsrv.sys.swnetsup.exe":"疑似杀软进程",
+"sweepsrv.exe":"已知杀软进程,名称暂未收录",
+"swi_filter.exe":"Sophos",
+"swi_service.exe":"Sophos",
+"SWNETSUP.exe":["Sophos",","sophos","]
+"swnxt.exe":"已知杀软进程,名称暂未收录",
+"swserver.exe":"已知杀软进程,名称暂未收录",
+"symcorpui.exe":["symantec(赛门铁克)",","Symantec（赛门铁克）",","Symantec Endpoint Security","]
+"SYMLCSVC.exe":["Symantec",","symantec",","symantec shared诺顿邮件防火墙软件",","Symantec Shared诺顿邮件防火墙软件","]
+"symproxysvc.exe":["Symantec",","Symantec",","symantec","]
+"SYMSPORT.exe":["Sysmantec",","sysmantec","]
+"symtray.exe":["Symantec",","symantec","]
+"SYMWSC.exe":["Sysmantec",","sysmantec","]
+"SYNMGR.exe":["Sysmantec",","sysmantec","]
+"SynTPEnh.exe":"笔记本触摸板",
+"SynTPEnhService.exe":"笔记本触摸板",
+"sysdoc32.exe":"已知杀软进程,名称暂未收录",
+"sysedit.exe":"疑似杀软进程",
+"sysupd.exe":"疑似杀软进程",
+"Tabby.exe":"Tabby 远程管理工具",
+"Tanium.exe":"已知杀软进程,名称暂未收录",
+"taskmg.exe":"疑似杀软进程",
+"taskmo.exe":"疑似杀软进程",
+"taumon.exe":"疑似杀软进程",
+"Tbmon.exe":["McAfee",","mcafee",","Mcafee",","mcafee(麦咖啡)",","McAfee（麦咖啡）","]
+"tbscan.exe":["ThunderBYTE",","thunderbyte","]
+"tc.exe":["TimeCalende",","timecalende","]
+"tca.exe":"疑似杀软进程",
+"tclproc.exe":"已知杀软进程,名称暂未收录",
+"tcm.exe":"疑似杀软进程",
+"tdimon.exe":"已知杀软进程,名称暂未收录",
+"tds-3.exe":"疑似杀软进程",
+"tds2-98.exe":"疑似杀软进程",
+"tds2-nt.exe":"疑似杀软进程",
+"TeamViewer.exe":"TeamViewer",
+"TeamViewer_Service.exe":"TeamViewer",
+"teekids.exe":"疑似杀软进程",
+"Telegram.exe":"Telegram",
+"tfak.exe":"疑似杀软进程",
+"tfak5.exe":"疑似杀软进程",
+"TFGui.exe":"已知杀软进程,名称暂未收录",
+"TFService.exe":"已知杀软进程,名称暂未收录",
+"TFTray.exe":"已知杀软进程,名称暂未收录",
+"TFun.exe":"已知杀软进程,名称暂未收录",
+"tgbob.exe":"疑似杀软进程",
+"TIASPN~1.exe":"已知杀软进程,名称暂未收录",
+"TitanAgent.exe":["天眼云镜",","青藤云agent",","Sky Eye Cloud Mirror","]
+"titanin.exe":["TitanHide",","titanhide","]
+"titaninxp.exe":"疑似杀软进程",
+"TitanMonitor.exe":["天眼云镜",","青藤云agent",","Sky Eye Cloud Mirror","]
+"tmas.exe":"已知杀软进程,名称暂未收录",
+"TMAS_OL.exe":"Trend Micro Deep Security",
+"TMAS_OLImp.exe":"Trend Micro Deep Security",
+"TMAS_OLSentry.exe":"Trend Micro Deep Security",
+"TMBMSRV.exe":["趋势杀毒",","趋势杀毒",","pc-cillin趋势反病毒",","TrendMicro",","PC-cillin趋势反病毒",","Trend Antivirus","]
+"TMLISTEN.exe":["趋势科技",","趋势科技",","Trend Micro",","Trend Micro Deep Security","]
+"TMNTSRV.exe":["趋势科技",","趋势科技",","Trend Micro",","Trend Micro Deep Security","]
+"TmPfw.exe":"已知杀软进程,名称暂未收录",
+"TMPROXY.exe":["趋势科技",","趋势科技",","Trend Micro",","Trend Micro Deep Security","TNBUTIL.exe"]
+"tnbutil.exe":"anti-virus",
+"TNSLSNR.exe":"Oracle 数据库服务",
+"Tomcat6.exe":"Tomcat6",
+"Topsec.exe":"天融信终端防御",
+"TopsecConfig.exe":"天融信终端防御",
+"TopsecDaemon.exe":"天融信终端防御",
+"TopsecLog.exe":"天融信终端防御",
+"TopsecMain.exe":["天融信终端防御",","Topsec Terminal Defense","]
+"TopsecTray.exe":["天融信终端防御",","TopsecTray Terminal Defense","]
+"TopsecUpdate.exe":"天融信终端防御",
+"TopsecWSCtrl.exe":"天融信终端防御",
+"tphelper.exe":"腾讯安全游戏中心",
+"tpsrv.exe":"已知杀软进程,名称暂未收录",
+"TracCAPI.exe":"Carbon Black",
+"tracert.exe":"疑似杀软进程",
+"tracesweeper.exe":"已知杀软进程,名称暂未收录",
+"tracsrvwrapper.exe":["Carbon Black",","Carbon Black","]
+"Traflnsp.exe":"已知杀软进程,名称暂未收录",
+"TrAPI.dll.exe":"Carbon Black",
+"TrapmineDeployer.exe":"Trapmine",
+"TrapmineEnterpriseConfig.exe":"Trapmine",
+"TrapmineEnterpriseService.exe":"Trapmine",
+"TrapmineUpgradeService.exe":"Trapmine",
+"TrapTrackerMgr.exe":"已知杀软进程,名称暂未收录",
+"TrGUI.exe":"Carbon Black",
+"trickler.exe":"疑似杀软进程",
+"Trjscan.exe":"Simplysup",
+"trjsetup.exe":"疑似杀软进程",
+"trojan.exe":"疑似杀软进程",
+"TrojanHunter.exe":["木马猎手",","木马猎手",","Trojan Hunter","]
+"trojantrap3.exe":"疑似杀软进程",
+"TrueVector.exe":"Carbon Black",
+"trupd.exe":"已知杀软进程,名称暂未收录",
+"tsadbot.exe":"疑似杀软进程",
+"TSAnSrf.exe":"已知杀软进程,名称暂未收录",
+"TSAtiSy.exe":"已知杀软进程,名称暂未收录",
+"TScutyNT.exe":"已知杀软进程,名称暂未收录",
+"TSmpNT.exe":"已知杀软进程,名称暂未收录",
+"tv_w32.exe":"TeamViewer",
+"tv_x64.exe":"TeamViewer",
+"tvmd.exe":["Total Velocity",","total velocity","]
+"tvtmd.exe":["Total Velocity",","Total Velocity",","total velocity","]
+"UcService.exe":"已知杀软进程,名称暂未收录",
+"udaterui.exe":["McAfee",","mcafee(麦咖啡)",","Mcafee",","McAfee（麦咖啡）","]
+"ufnavi.exe":"Trend Micro Deep Security",
+"UmxAgent.exe":"已知杀软进程,名称暂未收录",
+"UmxCfg.exe":"已知杀软进程,名称暂未收录",
+"UmxFwHlp.exe":"已知杀软进程,名称暂未收录",
+"UmxPol.exe":"已知杀软进程,名称暂未收录",
+"undoboot.exe":"疑似杀软进程",
+"UniversalAVService.exe":"SecureAge APEX",
+"UnThreat.exe":["UnThreat杀毒",","unthreat杀毒",","UnThreat",","UnThreat Antivirus","]
+"unvet32.exe":"已知杀软进程,名称暂未收录",
+"Up2date.exe":"已知杀软进程,名称暂未收录",
+"updat.exe":"疑似杀软进程",
+"update.exe":"疑似杀软进程",
+"updaterui.exe":["McAfee",","mcafee","]
+"updtnv28.exe":"已知杀软进程,名称暂未收录",
+"upfile.exe":"已知杀软进程,名称暂未收录",
+"upgrad.exe":"疑似杀软进程",
+"uplive.exe":"已知杀软进程,名称暂未收录",
+"UPSCHD.exe":"已知杀软进程,名称暂未收录",
+"UrlLstCk.exe":"已知杀软进程,名称暂未收录",
+"usbkiller.exe":["u盘杀毒专家",","U盘杀毒专家","]
+"UserActivity.exe":"已知杀软进程,名称暂未收录",
+"UserAnalysis.exe":"已知杀软进程,名称暂未收录",
+"usergate.exe":"已知杀软进程,名称暂未收录",
+"UsrPrmpt.exe":"已知杀软进程,名称暂未收录",
+"usysdiag.exe":["火绒",","火绒安全软件",","火绒安全",","Huorong",","Tinder","]
+"utpost.exe":"疑似杀软进程",
+"utsvc.exe":"UnThreat",
+"v.exe":"已知杀软进程,名称暂未收录",
+"v2iconsole.exe":"已知杀软进程,名称暂未收录",
+"v3clnsrv.exe":"已知杀软进程,名称暂未收录",
+"v3imscn.exe":"已知杀软进程,名称暂未收录",
+"V3Medic.exe":"已知杀软进程,名称暂未收录",
+"v3svc.exe":["安博士v3",","安博士V3",","ahnlab安博士v3杀毒",","AhnLab-V3",","Ahnlab安博士V3杀毒","]
+"VBA32ECM.exe":"Known anti-software process, the name is not included yet",
+"VBA32IFS.exe":"Known anti-software process, the name is not included yet",
+"vba32lder.exe":["vb32杀毒",","VBA32",","vb32 antivirus","]
+"vba32ldr.exe":"疑似杀软进程",
+"VBA32PP3.exe":"Known anti-software process, the name is not included yet",
+"vbcmserv.exe":"VirusBuster Professional",
+"vbcons.exe":"疑似杀软进程",
+"vbsntw.exe":"疑似杀软进程",
+"vbust.exe":"疑似杀软进程",
+"vbwin9x.exe":"疑似杀软进程",
+"vbwinntw.exe":"疑似杀软进程",
+"VCRMON.exe":["VirusChaser",","viruschaser","]
+"vcsetup.exe":"疑似杀软进程",
+"vet32.exe":"疑似杀软进程",
+"vet95.exe":"疑似杀软进程",
+"vetmsg.exe":"已知杀软进程,名称暂未收录",
+"vettray.exe":["eTrust",","etrust","]
+"vfproTray.exe":"VIRUSfighter",
+"vfsetup.exe":"疑似杀软进程",
+"VipreEdgeProtection.exe":"VIPRE",
+"vir-help.exe":"Known anti-software process, the name is not included yet",
+"virusmdpersonalfirewall.exe":"疑似杀软进程",
+"vizorhtmldialog.exe":"Trend Micro Deep Security",
+"vkise.exe":"ComodoAnti-virus网页保护程序",
+"vna_coinstall.dll - vna.exe":"Carbon Black",
+"vna_install64.exe":"Carbon Black",
+"vna_utils.exe":"Carbon Black",
+"vnlan300.exe":"疑似杀软进程",
+"vnpc3000.exe":"Known anti-software process, the name is not included yet",
+"vpatch.exe":"已知杀软进程,名称暂未收录",
+"vpc32.exe":["Symantec",","symantec","]
+"vpc42.exe":["Symantec",","symantec","]
+"VPDN_LU.exe":"已知杀软进程,名称暂未收录",
+"vpfw30s.exe":"疑似杀软进程",
+"vprosvc.exe":"已知杀软进程,名称暂未收录",
+"vptray.exe":["Norton病毒防火墙-盾牌图标程序",","norton病毒防火墙-盾牌图标程序",","Symantec",","Norton","]
+"vrfwsvc.exe":"疑似杀软进程",
+"VRMONNT.exe":["HAURI",","hauri",","ViRobot","]
+"VRMONSVC.exe":["HAURI",","hauri",","ViRobot","]
+"Vrproxyd.exe":"ViRobot",
+"vrrw32.exe":"疑似杀软进程",
+"vrv.exe":"已知杀软进程,名称暂未收录",
+"vrvmail.exe":"已知杀软进程,名称暂未收录",
+"vrvmon.exe":"已知杀软进程,名称暂未收录",
+"vrvnet.exe":"已知杀软进程,名称暂未收录",
+"vscan40.exe":"疑似杀软进程",
+"vscenu6.02d30.exe":"疑似杀软进程",
+"vsched.exe":"疑似杀软进程",
+"vseamps.exe":"Cyren",
+"vsecomr.exe":"疑似杀软进程",
+"vsedsps.exe":"Cyren",
+"vseqrts.exe":"Cyren",
+"vshwin32.exe":["McAfee",","McAfee",","mcafee","]
+"vsisetup.exe":"疑似杀软进程",
+"vsmain.exe":["McAfee",","mcafee","]
+"vsmon.exe":["Zone Alarm",","ZoneAlarm",","zonealarm防火墙",","ZoneAlarm防火墙","]
+"vsserv.exe":["比特梵德",","bitdefender比特梵德杀毒",","BitDefender",","Bitdefender比特梵德杀毒",","Bitdefender","]
+"vsstat.exe":["McAfee",","McAfee",","mcafee","]
+"vstskmgr.exe":["McAfee",","mcafee(麦咖啡)",","Mcafee",","McAfee（麦咖啡）","]
+"vswin9xe.exe":"疑似杀软进程",
+"vswinntse.exe":"疑似杀软进程",
+"vswinperse.exe":"疑似杀软进程",
+"w32dsm89.exe":"疑似杀软进程",
+"w9x.exe":"疑似杀软进程",
+"watchdog.exe":"疑似杀软进程",
+"wdswfsafe.exe":["360杀毒-网盾",","360 Antivirus-Net Shield","]
+"WebCompanion.exe":"Lavasoft",
+"WebCompanionInstaller.exe":"Lavasoft",
+"webdav.exe":"疑似杀软进程",
+"WEBPROXY.exe":"已知杀软进程,名称暂未收录",
+"webscanx.exe":["网络病毒克星",","网络病毒克星","]
+"WebTrap.exe":"TrendMicro",
+"webtrapnt.exe":"已知杀软进程,名称暂未收录",
+"wfindv32.exe":"Known anti-software process, the name is not included yet",
+"WFXCTL32.exe":"已知杀软进程,名称暂未收录",
+"WFXMOD32.exe":"已知杀软进程,名称暂未收录",
+"WFXSNT40.exe":"已知杀软进程,名称暂未收录",
+"whoswatchingme.exe":"疑似杀软进程",
+"wimmun32.exe":"疑似杀软进程",
+"win-bugsfix.exe":"疑似杀软进程",
+"win32.exe":"疑似杀软进程",
+"win32us.exe":"疑似杀软进程",
+"winactive.exe":"疑似杀软进程",
+"Winaw32.exe":"pcanywhere",
+"window.exe":"疑似杀软进程",
+"windows.exe":"疑似杀软进程",
+"windowssensor.x64.exe":"Crowdstrike EDR Solution",
+"wininetd.exe":"疑似杀软进程",
+"wininitx.exe":"疑似杀软进程",
+"winlogbeat.exe":"Elastic",
+"winlogin.exe":"疑似杀软进程",
+"winmain.exe":"疑似杀软进程",
+"winnet.exe":"疑似杀软进程",
+"winppr32.exe":"疑似杀软进程",
+"winrecon.exe":"疑似杀软进程",
+"WinRoute.exe":"已知杀软进程,名称暂未收录",
+"winservn.exe":"疑似杀软进程",
+"winssk32.exe":"疑似杀软进程",
+"winssnotify.exe":"疑似杀软进程",
+"winstart.exe":"疑似杀软进程",
+"winstart001.exe":"疑似杀软进程",
+"wintsk32.exe":"疑似杀软进程",
+"winupdate.exe":"疑似杀软进程",
+"WINWORD.exe":"Microsoft Word",
+"wkufind.exe":"疑似杀软进程",
+"wnad.exe":"疑似杀软进程",
+"wnt.exe":"疑似杀软进程",
+"wradmin.exe":"疑似杀软进程",
+"wrctrl.exe":"Kerio Personal Firewall",
+"WRSA.exe":"Webroot",
+"WrSpySetup.exe":"已知杀软进程,名称暂未收录",
+"wsbgate.exe":"疑似杀软进程",
+"wsc_proxy.exe":"捷克杀毒软件-Avast-Antivirus",
+"WscAVExe.exe":"McAfee",
+"wsctrl.exe":["火绒",","火绒安全软件",","火绒安全",","Huorong",","Tinder","]
+"wsctrlsvc.exe":"联想电脑管家(火绒反病毒引擎)",
+"wssfcmai.exe":"已知杀软进程,名称暂未收录",
+"wsssr_defence_daemon.exe":"云锁",
+"wsssr_defence_service.exe":"云锁",
+"wupdater.exe":"疑似杀软进程",
+"wupdt.exe":"疑似杀软进程",
+"wyvernworksfirewall.exe":"疑似杀软进程",
+"xagt.exe":"FireEye",
+"xagtnotif.exe":"FireEye",
+"XCOMMSVR.exe":["BitDefender",","bitdefender","]
+"xfilter.exe":"已知杀软进程,名称暂未收录",
+"xpf202en.exe":"疑似杀软进程",
+"Xshell.exe":"Xshell",
+"XshellCore.exe":"Xshell",
+"yandesk.exe":"Yandex",
+"Yandex.exe":"Yandex",
+"YandexDisk.exe":"Yandex",
+"ydedr.exe":"腾讯云-云镜主机安全",
+"YDLive.exe":["腾讯云-云镜",","腾讯云-云镜主机安全",","腾讯云-云镜主机安全",","Tencent Cloud-Cloud Mirror","]
+"YDService.exe":["腾讯云-云镜",","腾讯云-云镜主机安全",","腾讯云-云镜主机安全",","Tencent Cloud-Cloud Mirror","]
+"YSBugReport.exe":"云锁",
+"YSUpdate.exe":"云锁",
+"yunsuo_agent_daemon.exe":["云锁",","云锁服务端",","Yunsuo","]
+"yunsuo_agent_service.exe":["云锁",","云锁服务端",","Yunsuo","]
+"Zanda.exe":"已知杀软进程,名称暂未收录",
+"zapro.exe":["Zone Alarm",","zone alarm",","ZoneAlarm","]
+"zapsetup3001.exe":"已知杀软进程,名称暂未收录",
+"zatutor.exe":"已知杀软进程,名称暂未收录",
+"ZAVAux.exe":"Zillya",
+"ZAVCore.exe":"Zillya",
+"ZhuDongFangYu.exe":["360安全卫士-主动防御",","360主动防御",","Qihoo-360",","360 Security Guard-Active Defense","]
+"zillya.exe":"Zillya",
+"zlclient.exe":"已知杀软进程,名称暂未收录",
+"ZLH.exe":"已知杀软进程,名称暂未收录",
+"zonalm2601.exe":"已知杀软进程,名称暂未收录",
+"zonealarm.exe":["Zone Alarm",","Zone Alarm",","zone alarm",","ZoneAlarm","]
+"ZPSTray.exe":"Zoner",
+"攻击发现与风险控制系统.exe":"天擎EDRAgent",
